@@ -5,7 +5,7 @@ layout: Default.tsx
 url: /coc/
 ---
 
-# Code of Conduct - Chaostreff Flensburg e.V. Events
+# Code of Conduct - CCC Flensburg e.V. Events
 
 ## Deutsche Fassung
 
