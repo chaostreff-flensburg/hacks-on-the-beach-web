@@ -56,7 +56,7 @@ Your browser does not support the video tag.
 | :-- | :-- |
 | HH:MM | Doors Opening Day 3 |
 | 10:00 | Breakfast TBD |
-| 12:15 | [Closing & Goodbye](https://pretalx.chaostreff-flensburg.de/hoth2023/talk/DND3DV/) |
+| 12:15 | Closing & Goodbye |
 | until ready | Dismantling |
 | 16:00 | Übergabe Location - Alles muss aufgeräumt und sauber sein |
 
