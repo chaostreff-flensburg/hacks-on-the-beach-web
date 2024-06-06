@@ -32,7 +32,7 @@ TODO: Drohnen Video einfügen?
 | 18:42 | Opening |
 | 19:00 | Introduction 3D-Printing |
 | 20:00 | Hot-Dog Buffet TBD |
-| HH:MM | End of Day 1 |
+| 02:30 | End of Day 1 (02:30 28.09.2024 ) |
 
 ### Saturday - Day 2
 
@@ -43,7 +43,7 @@ TODO: Drohnen Video einfügen?
 | 14:00 | Jugend-Aktion |
 | 17:00 | Introduction Soldering |
 | 18:00 | Food? |
-| HH:MM | End of Day 1 |
+| 02:30 | End of Day 2 (02:30 29.09.2024 ) |
 
 ### Sunday - Day 3
 
@@ -104,9 +104,9 @@ Die Tickets sind kostenlos, aber du kannst einen freiwilligen Betrag zu dem Even
 ### Anreise
 
 #### Bus
-Die Buslinie 3 fährt nach Solitüde. Von der Haltestelle "Flensburg Solitüde" sind es ca. 6 Minuten Fußweg zum Strandpavillon. Es besteht auch die Möglichkeit, mit der Buslinie 7 bis zur Haltestelle "Flensburg Twedter Feld" zu fahren. Von dort sind es ca. 20 Minuten Fußweg bis zum Strandpavillon. Es gibt eine Nachtbuslinie zum Twedter Plack.
+Die Buslinie 3 fährt nach Solitüde. Von der Haltestelle "Flensburg Solitüde" sind es ca. 6 Minuten Fußweg zum Strandpavillon. Es besteht auch die Möglichkeit, mit der Buslinie 7 bis zur Haltestelle "Flensburg Twedter Feld" zu fahren. Von dort sind es ca. 20 Minuten Fußweg bis zum Strandpavillon. Es gibt eine Nachtbuslinie vom Twedter Plack. Der letzte Bus N2 fährt um 03:16 vom Twedter Plack nach z.B. Flensburg ZOB.
 Die Busverbindungen in Flensburg finden Sie im DB Navigator oder unter [nah.sh](https://www.nah.sh/de/fahrplan/planer/). Einen Live Standort der Buss gibt es auf [busradar-flensburg](https://www.busradar-flensburg.de/).
-FlixBus fährt die meisten größeren Städte in Deutschland (Kiel, Hamburg, Bremen, Hannover, Berlin,...) und Dänemark (Aarhus, Kopenhagen, Kolding,...) an. Alle Verbindungen enden am Bahnhof in Flensburg. Mit Sydtrafik gibt es aber auch einen dänischen Anbieter, der am ZOB hält. Vom Bahnhof zum WeekendHack sind es ca. 30 Minuten mit dem Fahrrad. Mit dem Bus sind es ca. 5 Minuten vom ZOB zum Bahnhof.
+FlixBus fährt die meisten größeren Städte in Deutschland (Kiel, Hamburg, Bremen, Hannover, Berlin,...) und Dänemark (Aarhus, Kopenhagen, Kolding,...) an. Alle Verbindungen enden am Bahnhof in Flensburg. Mit Sydtrafik gibt es aber auch einen dänischen Anbieter, der am ZOB hält. Vom Bahnhof zum Hacks on the Beach sind es ca. 30 Minuten mit dem Fahrrad. Mit dem Bus sind es ca. 5 Minuten vom ZOB zum Bahnhof.
 
 #### Zug 
 Es gibt diverse Zugverbindungen ~~von Kiel (ca. 1 Stunde) und~~ von Hamburg (ca. 2 Stunden) mit der Regionalbahn. In den Zügen gibt es oft sogar mobiles Internet und Steckdosen. Gerade auf das mobile Internet sollte man sich nicht verlassen und den Digital Detox genießen. Vereinzelt fahren auch dänische IC's von Hamburg nach Flensburg. Es gibt eine tägliche EC-Verbindung von Prag nach Flensburg. Für Gruppen ohne 49€ Ticket lohnt sich ab Hamburg das Schleswig-Holstein Ticket. Über Umwege kann man Sparpreis-Tickets kaufen, die sich wegen der hohen Regionalbahnpreise auch lohnen. Aus Dänemark könnt ihr mit der Dänischen Staatsbahn anreisen.
