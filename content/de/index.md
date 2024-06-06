@@ -25,10 +25,11 @@ Hacks on the Beach ist ein kleines Hack & Frickelfestival direkt an der Flensbur
   <source src="/assets/hotb-drone-night.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
+<span>Video vom #hotb19 🎥 <a href="https://martinmoerke.de/" target="_blank">@martinmoerke</a></span>
     
 ## Programm
     
-### Friday - Day 1
+### Friday - Day 1 - 27.09.2024
 
 | When | What |
 | :-- | :-- |
@@ -38,7 +39,7 @@ Your browser does not support the video tag.
 | 20:00 | Hot-Dog Buffet TBD |
 | 02:30 | End of Day 1 (02:30 28.09.2024 ) |
 
-### Saturday - Day 2
+### Saturday - Day 2 - 28.09.2024
 
 | When | What |
 | :-- | :-- |
@@ -49,7 +50,7 @@ Your browser does not support the video tag.
 | 18:00 | Food? |
 | 02:30 | End of Day 2 (02:30 29.09.2024 ) |
 
-### Sunday - Day 3
+### Sunday - Day 3 - 29.09.2024
 
 | When | What |
 | :-- | :-- |
