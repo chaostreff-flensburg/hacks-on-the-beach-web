@@ -20,7 +20,11 @@ Hacks on the Beach ist ein kleines Hack & Frickelfestival direkt an der Flensbur
 
 <p>WER:<br>Organisiert wird das Ganze vom nördlichsten Hackspace Deutschlands, dem Chaos Computer Club Flensburg e.V.! Seit 2015 bringen und schaffen wir Chaos in Flensburg und zeigen den Besucher*innen gerne unsere schönsten Strände.</p>
 
-TODO: Drohnen Video einfügen?
+<video controls>
+  <source src="/assets/hotb-drone-night.webm" type="video/webm">
+  <source src="/assets/hotb-drone-night.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
     
 ## Programm
     
