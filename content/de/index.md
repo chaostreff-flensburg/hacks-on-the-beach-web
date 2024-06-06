@@ -7,16 +7,16 @@ url: /
 
 # Hacks on the Beach 2024 #hotb24
 
-Das Hacks on the Beach ist ein kleines Hack & Frickelfestival direkt an der Flensburger Förde.  Zum vierten mal kannst du mit Meerblick ein ganzes Wochenende an deinen und anderen Projekte arbeiten. Dazu gibt es super coole Leute, gutes Essen und eine wunderbare Zeit.  TODO: Link Ticket Shop einfügen
+Hacks on the Beach ist ein kleines Hack & Frickelfestival direkt an der Flensburger Förde.  Zum vierten Mal kannst du ein ganzes Wochenende mit Meerblick an deinen und anderen Projekten arbeiten. Dazu gibt es super coole Leute, leckeres Essen und jede Menge Spaß.  [Zum Ticketshop](https://tickets.chaostreff-flensburg.de/hoth/hotb-24/)
 
 <p>WO:<br>Strandpavillion Solitüde<br>54°49’20.8″N 9°29’22.1″E<br>Flensburg</p>
 
 <p>WANN:<br>27. – 29.09.2022, Von Freitag bis Sonntag</p>
 
     
-<p>KOSTEN:<br> Für die Teilnahme braucht ihr ein kostenloses Ticket. Damit wir Miete und Essen bezahlen können, freuen wir uns, wenn ihr dazu finanziell in der Lage seid, wenn ihr die Veranstaltung mit einer optionalen Spende unterstützt. Die Spendenempfehlung findet ihr im Ticketshop</p> TODO: Link Ticket Shop einfügen
+<p>KOSTEN:<br>Für die Teilnahme benötigt ihr eine kostenlose Ticket. Damit wir Miete und Verpflegung bezahlen können, freuen wir uns, wenn ihr die Veranstaltung mit einer freiwilligen Spende unterstützt. Die Spendenempfehlung findet ihr im [ Ticketshop](https://tickets.chaostreff-flensburg.de/hoth/hotb-24/).</p>
 
-<p>WER:<br>Das ganze wird vom nördlichsten Hackspace Deutschland organisiert, dem Chaos Computer Club Flensburg e.V.! Seit 2015 bringen und erstellen wir Qualitäts Chaos in Flensburg und zeigen gerne Besucher\*innen unsere schönsten Strände.</p>
+<p>WER:<br>Organisiert wird das Ganze vom nördlichsten Hackspace Deutschlands, dem Chaos Computer Club Flensburg e.V.! Seit 2015 bringen und schaffen wir Chaos in Flensburg und zeigen den Besucher*innen gerne unsere schönsten Strände.</p>
 
 TODO: Drohnen Video einfügen?
     
