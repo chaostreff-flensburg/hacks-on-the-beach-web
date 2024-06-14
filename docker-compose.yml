@@ -1,0 +1,19 @@
+version: '3'
+
+networks:
+  web:
+    external: true
+
+services:
+  web:
+    image: ghcr.io/chaostreff-flensburg/hacks-on-the-beach-web/frontend:latest
+    restart: always
+    networks:
+      - web
+    labels:
+      - "traefik.enable=true"
+      - "traefik.http.routers.hotb.rule=Host(`hotb.c3fl.de`)"
+      - "traefik.http.routers.hotb.entrypoints=https,http"
+      - "traefik.http.services.hotb.loadbalancer.server.port=80"
+      - "traefik.http.routers.hotb.tls.certresolver=mytlschallenge"
+      - "traefik.docker.network=web"

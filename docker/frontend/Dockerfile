@@ -15,7 +15,7 @@ RUN deno task build
 # build nginx webserver
 FROM nginx:alpine
 
-EXPOSE 80
+EXPOSE 8080
 
 COPY ./docker/frontend/nginx.conf /etc/nginx/nginx.conf
 COPY --from=builder /app/_site/ /var/www/html/
