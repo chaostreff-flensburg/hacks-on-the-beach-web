@@ -120,7 +120,7 @@ There are various train connections ~~ from Kiel (approx. 1 hour) and ~~ from Ha
 
 Hacks on the Beach is easy to reach via the A7 motorway and then the B200. From Hamburg you need about 1 hour and 55 minutes. From Sonderburg it is approx. 40 minutes and from Kiel approx. 1 hour.
 There are numerous parking spaces within walking distance (approx. 2 minutes / 200 metres), but no parking spaces directly at the venue. Caravan parking is generally not a problem. Toilets and showers are not available. There are no showers at the venue.
-Note: There are other parking spaces, you can see whether they are occupied or available in the CityPilot app.
+Note: There are additional parking spaces, you can see whether they are occupied or available in the CityPilot app.
 
 #### Miscellaneous
 
@@ -137,7 +137,7 @@ There are two hostels in Flensburg:
 - [seemansheim flensburg](https://www.seemannsheim-flensburg.de/) (Very close to the harbour)
 - There is also a [DJH - Youth Hostel](https://www.jugendherberge.de/jugendherbergen/flensburg/)
 
-There are various hotels in Flensburg. [Siehe Booking](https://www.booking.com/searchresults.de.html?ss=Flensburg+Solit%C3%BCde%2C+Flensburg%2C+Schleswig-Holstein%2C+Deutschland&ssne=Flensburg&ssne_untouched=Flensburg&label=gen173nr-1FCAEoggI46AdIM1gEaKoBiAEBmAEHuAEZyAEM2AEB6AEB-AELiAIBqAIDuALF4PuyBsACAdICJDZhZDhmZjFjLWFjODktNDE0My05YTkzLTc1OWEyMDcxYWM3NNgCBuACAQ&sid=3842d8c8b4cadcf25c8d8d6575f077ff&aid=304142&lang=de&sb=1&src_elem=sb&src=searchresults&dest_id=10764043&dest_type=hotel&ac_position=0&ac_click_type=b&ac_langcode=de&ac_suggestion_list_length=5&search_selected=true&search_pageview_id=0fe14bb27e00011c&ac_meta=GhAzOGE0NGJjNGMzMWMwMjE3IAAoATICZGU6EUZsZW5zYnVyZyBzb2xpdMO8QABKAFAA&checkin=2024-09-27&checkout=2024-09-29&group_adults=1&no_rooms=1&group_children=0).
+There are various hotels in Flensburg. [Booking](https://www.booking.com/searchresults.de.html?ss=Flensburg+Solit%C3%BCde%2C+Flensburg%2C+Schleswig-Holstein%2C+Deutschland&ssne=Flensburg&ssne_untouched=Flensburg&label=gen173nr-1FCAEoggI46AdIM1gEaKoBiAEBmAEHuAEZyAEM2AEB6AEB-AELiAIBqAIDuALF4PuyBsACAdICJDZhZDhmZjFjLWFjODktNDE0My05YTkzLTc1OWEyMDcxYWM3NNgCBuACAQ&sid=3842d8c8b4cadcf25c8d8d6575f077ff&aid=304142&lang=de&sb=1&src_elem=sb&src=searchresults&dest_id=10764043&dest_type=hotel&ac_position=0&ac_click_type=b&ac_langcode=de&ac_suggestion_list_length=5&search_selected=true&search_pageview_id=0fe14bb27e00011c&ac_meta=GhAzOGE0NGJjNGMzMWMwMjE3IAAoATICZGU6EUZsZW5zYnVyZyBzb2xpdMO8QABKAFAA&checkin=2024-09-27&checkout=2024-09-29&group_adults=1&no_rooms=1&group_children=0).
 
 There are also holiday flats on e.g. [Airbnb](https://de.airbnb.com/s/Flensburg-Solit%C3%BCde-Strand--Solit%C3%BCder-Stra%C3%9Fe--Flensburg--Deutschland/homes?tab_id=home_tab&refinement_paths%5B%5D=%2Fhomes&flexible_trip_lengths%5B%5D=one_week&monthly_start_date=2024-07-01&monthly_length=3&monthly_end_date=2024-10-01&price_filter_input_type=0&channel=EXPLORE&query=Flensburg%20Solit%C3%BCde%20Strand%2C%20Flensburg%2C%20Deutschland&place_id=ChIJ3ZHxQrhDs0cR-aOMByp4ZM4&location_bb=QltIo0EXwhpCW0XgQRe3DQ%3D%3D&date_picker_type=calendar&checkin=2024-09-27&checkout=2024-09-29&adults=1&source=structured_search_input_header&search_type=autocomplete_click). 
 
