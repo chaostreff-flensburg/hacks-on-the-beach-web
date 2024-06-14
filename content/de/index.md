@@ -13,7 +13,7 @@ Hacks on the Beach ist ein kleines Hack- & Frickelfestival direkt an der Flensbu
 
 [Open Streep Map](https://www.openstreetmap.org/search?query=54.82238%2C9.48952#map=19/54.82238/9.48952) | [Google Maps](https://www.google.com/maps/place/Solitude+Restaurant/@54.8213002,9.4866206,17z/data=!4m5!3m4!1s0x47b343af6afc09e5:0x8d4742d2e8b0b4af!8m2!3d54.8207686!4d9.4882353)
 
-<p>WANN:<br>27. – 29.09.2022, Von Freitag bis Sonntag</p>
+<p>WANN:<br>27. – 29.09.2024, Von Freitag bis Sonntag</p>
 
     
 <p>KOSTEN:<br>Für die Teilnahme benötigt ihr ein kostenloses Ticket. Damit wir Miete und Verpflegung bezahlen können, freuen wir uns, wenn ihr die Veranstaltung mit einer freiwilligen Spende unterstützt. Die Spendenempfehlung findet ihr im <a target="_blank" href="https://tickets.chaostreff-flensburg.de/hoth/hotb-24/">Ticketshop</a>.</p>
@@ -66,7 +66,7 @@ Während der gesamten Veranstaltung stehen eine 3D-Druckstation und eine Lötsta
 
 ## FAQ
 
-Du hast noch mehr Fragen? Schreibe uns gerne eine E-Mail an hoth@chaostreff-flensburg.de
+Du hast noch mehr Fragen? Schreibe uns gerne eine E-Mail an hotb@chaostreff-flensburg.de
 
 ### An wen richtet sich die Veranstaltung?
 Die Veranstaltung richtet sich an alle, die sich für Basteln, Programmieren, Hacken, Tüfteln, Löten, 3D-Drucken, Chaos und Netzpolitik interessieren oder begeistern können. Du musst kein Experte\*in sein oder Vorkenntnisse haben, um an dieser Veranstaltung teilzunehmen.
@@ -100,7 +100,7 @@ Wenn du zu anderen Zeiten essen möchtest, musst du dich selbst versorgen.
 Wenn du uns bei den Workshops oder bei Aufbau/Organisation helfen möchtest, schreibe uns einfach eine E-Mail an hotb@chaostreff-flensburg.de. Die Veranstaltung lebt von der Unterstützung durch Freiwillige.
 
 ### Kann ich vorbeikommen um einfach neue Menschen kennen zu lernen oder an meinem eigenen Projekt zu arbeiten?
-Auf jeden Fall! Das ist genau das, was unsere Veranstaltungen ausmacht: Tüfteln, Basteln, an eigenen Projekten arbeiten, für die man zu Hause keine Zeit hat, und dabei neue Inspirationen sammeln. Ein weiterer Punkt ist, neue Kontakte zu knüpfen und Leute kennenzulernen. Wenn du etwas Größeres als z.B. nur deinen Laptop und Arduino (etc.) mitbringen möchtest, schreibe uns bitte vorher eine kurze E-Mail: hoth@chaostreff-flensburg.de.
+Auf jeden Fall! Das ist genau das, was unsere Veranstaltungen ausmacht: Tüfteln, Basteln, an eigenen Projekten arbeiten, für die man zu Hause keine Zeit hat, und dabei neue Inspirationen sammeln. Ein weiterer Punkt ist, neue Kontakte zu knüpfen und Leute kennenzulernen. Wenn du etwas Größeres als z.B. nur deinen Laptop und Arduino (etc.) mitbringen möchtest, schreibe uns bitte vorher eine kurze E-Mail: hotb@chaostreff-flensburg.de.
 
 ### Was kostet ein Ticket?
 Die Tickets sind kostenlos, aber du kannst einen freiwilligen Betrag zu dem Event beitragen. Das Geld wird vom Chaos Computer Club Flensburg e.V. (gemeinnützig) verwaltet.
@@ -163,7 +163,7 @@ Du hast Feedback? Wir haben ein [Pad](https://md.ctfl.space/hotb24_feedback)
 
 ## Kontakt
 
-* E-Mail: hoth@chaostreff-flensburg.de
+* E-Mail: hotb@chaostreff-flensburg.de
 * Öffentlich Matrix Raum: [#hoth-public:chaos.jetzt](https://matrix.to/#/#hoth-public:chaos.jetzt)
 * Mastodon: [@chaos_fl@chaos.social](https://chaos.social/@chaos_fl)
 * Instagram: [chaos_fl](https://www.instagram.com/chaos_fl/)

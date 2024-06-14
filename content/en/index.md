@@ -1,5 +1,5 @@
 ---
-lang: en
+lang: de
 id: index
 layout: Default.tsx
 url: /
@@ -7,163 +7,169 @@ url: /
 
 # Hacks on the Beach 2024 #hotb24
 
-Das Hacks on the Beach ist ein kleines Hack & Frickelfestival direkt an der Flensburger Förde.  Zum vierten mal kannst du mit Meerblick ein ganzes Wochenende an deinen und anderen Projekte arbeiten. Dazu gibt es super coole Leute, gutes Essen und eine wunderbare Zeit.  TODO: Link Ticket Shop einfügen
+Hacks on the Beach is a small hack & frickel festival right on the Flensburg Fjord.  For the fourth time, you can spend a whole weekend working on your own and other projects with a view of the sea. There are also super cool people, delicious food and lots of fun. [To the ticket shop](https://tickets.chaostreff-flensburg.de/hoth/hotb-24/)
 
-<p>WO:<br>Strandpavillion Solitüde<br>54°49’20.8″N 9°29’22.1″E<br>Flensburg</p>
+<p>WHERE:<br>Strandpavillion Solitüde<br>54°49’20.8″N 9°29’22.1″E<br>Flensburg, Germany</p>
 
-<p>WANN:<br>27. – 29.09.2022, Von Freitag bis Sonntag</p>
+[Open Streep Map](https://www.openstreetmap.org/search?query=54.82238%2C9.48952#map=19/54.82238/9.48952) | [Google Maps](https://www.google.com/maps/place/Solitude+Restaurant/@54.8213002,9.4866206,17z/data=!4m5!3m4!1s0x47b343af6afc09e5:0x8d4742d2e8b0b4af!8m2!3d54.8207686!4d9.4882353)
 
+<p>WHEN:<br>27 - 29 September 2024, from Friday to Sunday</p>
     
-<p>KOSTEN:<br> Für die Teilnahme braucht ihr ein kostenloses Ticket. Damit wir Miete und Essen bezahlen können, freuen wir uns, wenn ihr dazu finanziell in der Lage seid, wenn ihr die Veranstaltung mit einer optionalen Spende unterstützt. Die Spendenempfehlung findet ihr im Ticketshop</p> TODO: Link Ticket Shop einfügen
+<p>COSTS:<br>You need a free ticket to participate. We would be delighted if you could support the event with a voluntary donation so that we can pay for rent and catering. You can find the donation recommendation in the <a target="_blank" href="https://tickets.chaostreff-flensburg.de/hoth/hotb-24/">ticket shop</a>.</p>
 
-<p>WER:<br>Das ganze wird vom nördlichsten Hackspace Deutschland organisiert, dem Chaos Computer Club Flensburg e.V.! Seit 2015 bringen und erstellen wir Qualitäts Chaos in Flensburg und zeigen gerne Besucher\*innen unsere schönsten Strände.</p>
+<p>WHO:<br>The whole thing is organised by Germany's northernmost hackspace, the Chaos Computer Club Flensburg e.V.! We have been bringing and creating chaos in Flensburg since 2015 and are happy to show visitors our most beautiful beaches.</p>
 
-TODO: Drohnen Video einfügen?
-    
+<video controls>
+  <source src="/assets/hotb-drone-night.webm" type="video/webm">
+  <source src="/assets/hotb-drone-night.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+<span>Video from #hotb19 🎥 <a href="https://martinmoerke.de/" target="_blank">@martinmoerke</a></span>
+
 ## Programm
     
-### Friday - Day 1
+### Friday - Day 1 - 27.09.2024
 
 | When | What |
 | :-- | :-- |
 | 11:42 | Set-up |
-| 18:42 | Opening |
-| 19:00 | Introduction 3D-Printing |
-| 20:00 | Hot-Dog Buffet TBA |
-| HH:MM | End of Day 1 |
+| 18:42 | Official Opening |
+| TBD | Introduction 3D-Printing |
+| TBD | Food |
+| 02:30 | End of Day 1 (02:30 28.09.2024) |
 
-### Saturday - Day 2
-
-| When | What |
-| :-- | :-- |
-| HH:MM | Doors Opening Day 2 |
-| 11:00 | Breakfast? |
-| 14:00 | Jugendtreff??? |
-| 17:00 | Introduction Soldering |
-| 18:00 | Food? |
-| HH:MM | End of Day 1 |
-
-### Sunday - Day 3
+### Saturday - Day 2 - 28.09.2024
 
 | When | What |
 | :-- | :-- |
-| HH:MM | Doors Opening Day 3 |
-| 12:15 | [Closing & Goodbye](https://pretalx.chaostreff-flensburg.de/hoth2023/talk/DND3DV/) |
+| TBD | Doors Opening Day 2 |
+| TBD | Breakfast |
+| TBD | Jugend-Aktion |
+| TBD | Introduction Soldering |
+| TBD | Food |
+| 02:30 | End of Day 2 (02:30 29.09.2024) |
+
+### Sunday - Day 3 - 29.09.2024
+
+| When | What |
+| :-- | :-- |
+| TBD | Doors Opening Day 3 |
+| TBD | Breakfast |
+| 12:15 | Closing & Goodbye |
 | until ready | Dismantling |
-| 16:00 | Übergabe Location - Alles muss aufgeräumt und sauber sein |
+| 16:00 | Handover location - everything must be tidy and clean |
 
-:arrow_right: The programme is always WIP (Work in Progress).
+TBD = In Planung.
     
-Während der gesamten Zeit werden eine 3D-Druckstation und eine Lötstation zur Verfügung stehen.
+A 3D printing station and a soldering station will be available throughout the event.
 
 ## FAQ
 
-Du hast noch mehr Fragen? Schreibe uns gerne eine E-Mail an hoth@chaostreff-flensburg.de
+Do you have any more questions? Please send us an e-mail to hotb@chaostreff-flensburg.de
 
-### An wen richtet sich die Veranstaltung?
-Die Veranstaltung richtet sich an alle, die sich für Basteln, Programmieren, Hacken, Tüfteln, Löten, 3D-Drucken, Chaos und Netzpolitik interessieren oder begeistern können. Du musst kein Experte\*in sein oder Vorkenntnisse haben, um an dieser Veranstaltung teilzunehmen.
-**Am besten schaust du einfach mal vorbei.**
+### Who is the event for?
+The event is aimed at anyone who is interested in or enthusiastic about tinkering, programming, hacking, tinkering, soldering, 3D printing, chaos and net politics. You don't have to be an expert or have any prior knowledge to take part in this event.
+**The best thing to do is just drop by.**
 
-Du solltest nicht kommen, wenn du an Verschwörungsmythen glaubst oder nicht den Code of Conduct einhälst.
+You should not come if you believe in conspiracy myths or do not adhere to the [Code of Conduct](/coc/).
 
-### Kommunikation während der Veranstaltung
+### Communication during the event
 
-Für die Teilnehmer\*innen dieser Veranstaltung steht ein öffentlicher Matrix-Raum zur Verfügung. Matrix ist eine kostenlose und öffentliche Kommunikationsplattform. 
-Den Zugang zum Matrix Raum findest du hier [#hoth-public:chaos.jetzt](https://matrix.to/#/#hoth-phttps://matrix.to/#/#hoth-public:chaos.jetztublic:chaos.jetzt)
-Mehr Informationen zu Matrix findest du auf der  [Element Seite](https://element.io/).
+A public Matrix room is available for the participants of this event. Matrix is a free and public communication platform. 
+You can find access to the Matrix room here: [#hoth-public:chaos.jetzt](https://matrix.to/#/#hoth-phttps://matrix.to/#/#hoth-public:chaos.jetztublic:chaos.jetzt)
+You can find more information about Matrix on the [Element Website](https://element.io/).
 
-### Wo findet das Event statt?
+### Where is the event taking place?
 
 Strandpavillion Solitüde, Flensburg, Germany
-
 54°49’20.8″N 9°29’22.1″E
 
-### Essen
+[Open Streep Map](https://www.openstreetmap.org/search?query=54.82238%2C9.48952#map=19/54.82238/9.48952) | [Google Maps](https://www.google.com/maps/place/Solitude+Restaurant/@54.8213002,9.4866206,17z/data=!4m5!3m4!1s0x47b343af6afc09e5:0x8d4742d2e8b0b4af!8m2!3d54.8207686!4d9.4882353)
 
-Für das Abendessen am Freitag und Samstag ist ebenfalls gesorgt. Das Essen wird vegetarisch und vegan sein. Es wird auch glutenfreies Essen geben. 
-Am Freitag Abend wird es ein Hot Dog Buffet??? geben.
-Am Samstag Abend werden wir Pizza bestellen??? und essen. 
+### Food
 
-Während der Veranstaltung wird es auch eine Station geben wo du dir selber ein Sandwich-Toast machen kannst.
+Dinner will be provided on Friday and Saturday. The food will be vegetarian and vegan. There will also be gluten-free food. What exactly will be available and when is still being planned.
 
-Wenn du zu anderen Zeiten essen möchtest, musst du dich selbst versorgen. 
+During the event there will also be a station where you can make your own sandwich toast.
 
-### Braucht ihr noch Freiwillige?
+If you want to eat at other times, you will have to cater for yourself.
 
-Wenn du uns bei den Workshops oder beim Aufbau/Orga helfen willst, schreib uns einfach eine E-Mail an hotb@chaostreff-flensburg.de. Das Event lebt von der unterstüztung Freiwilliger.
+### Do you need more volunteers?
 
-### Kann ich vorbeikommen um einfach neue Menschen kennen zu lernen oder an meinem eigenen Projekt zu arbeiten?
-Auf jeden Fall! Das ist genau das, was unsere Events ausmacht: hacken, basteln und an eigenen Projekten, für die man zu Hause keine Zeit hat, arbeiten und dabei neue Inspirationen sammeln. Ein weiterer Punkt ist neue Verbindungen und Bekanntschaften zu knüpfen. Wenn du wetwas größeres als z.B. nur dienen Laptop und Arduino (etc.) mitbringen willst, schrieb uns doch vorher bitte eine kurze E-Mail: hoth@chaostreff-flensburg.de
+If you would like to help us with the workshops or with the set-up/organisation, simply send us an email to hotb@chaostreff-flensburg.de. The event depends on the support of volunteers.
 
-### Was kostet ein Ticket?
-Die Tickets sind kostenlos, aber du kannst einen freiwilligen Betrag zu dem Event beitragen. Das Geld wir von dem Verein Chaos Computer Club Flensburg e.V. (non-profit) verwaltet.
+### Can I come along to simply meet new people or work on my own project?
 
+By all means! That's exactly what our events are all about: tinkering, crafting, working on your own projects that you don't have time for at home and gathering new inspiration in the process. Another point is to make new contacts and get to know people. If you would like to bring something bigger than just your laptop and Arduino (etc.), please send us a short email in advance: hotb@chaostreff-flensburg.de.
 
-### Anreise
+### How much does a ticket cost?
+
+Tickets are free, but you can make a voluntary contribution to the event ( a donation). The money will be administered by the Chaos Computer Club Flensburg e.V. (non-profit organisation).
+
+### Travelling
 
 #### Bus
-Es fahren Busse der Linie 3 nach Solitüde. Von der Bushaltestelle "Flensburg Solitüde" sind es ca. 6 Minuten zu fuß zum Strandpavillion. Es gibt auch die Möglichkeit mit der Linie 7 zur Haltestelle "Flensburg Twedter Feld" zu fahren. Von da sind es ca. 20 Minuten zu fuß zur Location. Es gibt eine Nachtbus Linie zum Twedter Plack.
-Die Busverbindungen in Flensburg findet ihr im DB Navigator oder auf [nah.sh](https://www.nah.sh/de/fahrplan/planer/). Einen Live Standort der Buss gibt es auf [busradar-flensburg](https://www.busradar-flensburg.de/).
-Es gibt eine FlixBus-Verbindung in den meisten größeren Städte in Deutschland (Kiel, Hamburg, Bremen, Hannover, Berlin,…) und aus Dänemark (Aarhus, Kopenhagen, Kolding,…). Die Verbindungen enden alle am Bahnhof in Flensburg. Mit Sydtrafik gibt es aber auch einen dänischen Anbieter, der am ZOB hält. Vom Bahnhof zum WeekendHack sind es ca. 30 Minuten mit dem Fahrrad. ZOB und Bahnhof sind ca. 5min mit dem Bus voneinander entfernt.
+Bus route 3 goes to Solitüde. From the bus stop "Flensburg Solitüde" it is approx. 6 minutes on foot to the beach pavilion. It is also possible to take bus number 7 to the bus stop "Flensburg Twedter Feld". From there it is approx. 20 minutes on foot to the beach pavilion. There is a night bus service from Twedter Plack. The last bus N2 leaves at 03:16 from Twedter Plack to e.g. Flensburg ZOB.
+You can find the bus connections in Flensburg in the DB-Navigator or at [nah.sh](https://www.nah.sh/de/fahrplan/planer/). A live location of the buses can be found at [busradar-flensburg](https://www.busradar-flensburg.de/).
+FlixBus travels from most major cities in Germany (Kiel, Hamburg, Bremen, Hanover, Berlin,...) and Denmark (Aarhus, Copenhagen, Kolding,...). All connections end at the railway station in Flensburg. With Sydtrafik there is also a Danish provider that stops at the ZOB. It is about 30 minutes by bike from the railway station to Hacks on the Beach. By bus, it is approx. 5 minutes from the ZOB to the railway station.
 
-#### Zug 
-Es gibt diverse Zugverbindungen ~~von Kiel (ca. 1 Stunde) und~~ von Hamburg (ca. 2 Stunden) mit der Regionalbahn. Es gibt sogar häufig Mobiles Internet und Steckdosen in den Zügen. Gerade auf das Mobile Internet sollte man sich nicht verlassen und das Digital Detox genießen. Es fahren auch vereinzelt dänische IC's von Hamburg nach Flensburg. Es gibt eine tägliche EC Verbindung von Prag nach Flensburg. Für Gruppen, ohne 49€-Ticket, lohnt sich ab Hamburg das Schleswig-Holstein Ticket. Über Umwege könnt ihr euch Sparpreis Tickets kaufen, die sich aufgrund der hohen Regionalbahn-Kosten auch lohnen. Aus Dänemark könnt ihr mit der Dänischen Staatsbahn anreisen.
+#### Train
+There are various train connections ~~ from Kiel (approx. 1 hour) and ~~ from Hamburg (approx. 2 hours) by regional train. There is often even mobile internet and power sockets on the trains. You should not rely on mobile internet and enjoy the digital detox. Occasionally, Danish ICs also run from Hamburg to Flensburg. There is a daily EC connection from Prague to Flensburg. For groups without a €49 ticket, the Schleswig-Holstein ticket from Hamburg is worthwhile. You can buy Sparpreis tickets via detours, which are also worthwhile due to the high regional train prices. You can travel from Denmark with the Danish State Railway.
 
-#### Auto
-Das Hacks on the Beach könnt ihr einfach über die A7 und dann über die B200 erreichen. Ab Hamburg braucht ihr ungefähr 1 Stunde und 55 Minuten. Aus Sonderburg sind es ca. 40 Minuten und aus Kiel braucht ihr 1 Stunde.
-Es gibt viele Parkplätze in Laufweite (ca. 2 Minuten / 200 Meter), es gibt keine Parkplätze direkt an der Location. Das Abstellenden von Wohnmobilien ist dort in der Regel kein Problem. Es gibt dort aber keine Toiletten oder Duschen. Es gibt keine Dusche in der Veranstaltungslocation.
-Sidenote: Es gibt noch mehr Parkplätze, ob diese belegt oder Frei sind, kannst du in der App CityPilot sehen. 
+#### Car
 
-#### Sontiges
-In Flensburg gibt es die Möglichkeit, relativ günstig mit dem Taxi zu Reisen.
-Für Ambitionierte führt auch der Europäische Fernwanderweg 1 durch Flensburg.
+Hacks on the Beach is easy to reach via the A7 motorway and then the B200. From Hamburg you need about 1 hour and 55 minutes. From Sonderburg it is approx. 40 minutes and from Kiel approx. 1 hour.
+There are numerous parking spaces within walking distance (approx. 2 minutes / 200 metres), but no parking spaces directly at the venue. Caravan parking is generally not a problem. Toilets and showers are not available. There are no showers at the venue.
+Note: There are other parking spaces, you can see whether they are occupied or available in the CityPilot app.
 
-### Unterkünfte
+#### Miscellaneous
 
-Alle Teilnehmenden müssen sich selbst um eine Unterkunft kümmern. Nachts ist das Strandpavillion geschlossen. Es gibt **keine** Übernachtungsmöglichkeiten im Strandpavillion.
+In Flensburg, you can travel relatively cheaply by taxi.
+For ambitious hikers, the European long-distance hiking trail 1 also leads through Flensburg.
+
+### Accommodation
+
+All participants must organise their own accommodation. The beach pavilion is closed at night. There is **no** overnight accommodation in the beach pavilion.
 
 #### Hotels & Hostels
-Es gibt in Flensburg zwei Hostels:
-- [flensbed](https://flensbed.de/) (Sehr nah am Bahnhof)
-- [seemansheim flensburg](https://www.seemannsheim-flensburg.de/) (Sehr nah am Hafen)
-- Es gibt auch eine [DJH - Jugendherberge](https://www.jugendherberge.de/jugendherbergen/flensburg/)
+There are two hostels in Flensburg:
+- [flensbed](https://flensbed.de/) (Very close to the railway station)
+- [seemansheim flensburg](https://www.seemannsheim-flensburg.de/) (Very close to the harbour)
+- There is also a [DJH - Youth Hostel](https://www.jugendherberge.de/jugendherbergen/flensburg/)
 
-Es gibt in Flensburg diverse Hotels. [Siehe Booking](https://www.booking.com/searchresults.de.html?ss=Flensburg+Solit%C3%BCde%2C+Flensburg%2C+Schleswig-Holstein%2C+Deutschland&ssne=Flensburg&ssne_untouched=Flensburg&label=gen173nr-1FCAEoggI46AdIM1gEaKoBiAEBmAEHuAEZyAEM2AEB6AEB-AELiAIBqAIDuALF4PuyBsACAdICJDZhZDhmZjFjLWFjODktNDE0My05YTkzLTc1OWEyMDcxYWM3NNgCBuACAQ&sid=3842d8c8b4cadcf25c8d8d6575f077ff&aid=304142&lang=de&sb=1&src_elem=sb&src=searchresults&dest_id=10764043&dest_type=hotel&ac_position=0&ac_click_type=b&ac_langcode=de&ac_suggestion_list_length=5&search_selected=true&search_pageview_id=0fe14bb27e00011c&ac_meta=GhAzOGE0NGJjNGMzMWMwMjE3IAAoATICZGU6EUZsZW5zYnVyZyBzb2xpdMO8QABKAFAA&checkin=2024-09-27&checkout=2024-09-29&group_adults=1&no_rooms=1&group_children=0).
+There are various hotels in Flensburg. [Siehe Booking](https://www.booking.com/searchresults.de.html?ss=Flensburg+Solit%C3%BCde%2C+Flensburg%2C+Schleswig-Holstein%2C+Deutschland&ssne=Flensburg&ssne_untouched=Flensburg&label=gen173nr-1FCAEoggI46AdIM1gEaKoBiAEBmAEHuAEZyAEM2AEB6AEB-AELiAIBqAIDuALF4PuyBsACAdICJDZhZDhmZjFjLWFjODktNDE0My05YTkzLTc1OWEyMDcxYWM3NNgCBuACAQ&sid=3842d8c8b4cadcf25c8d8d6575f077ff&aid=304142&lang=de&sb=1&src_elem=sb&src=searchresults&dest_id=10764043&dest_type=hotel&ac_position=0&ac_click_type=b&ac_langcode=de&ac_suggestion_list_length=5&search_selected=true&search_pageview_id=0fe14bb27e00011c&ac_meta=GhAzOGE0NGJjNGMzMWMwMjE3IAAoATICZGU6EUZsZW5zYnVyZyBzb2xpdMO8QABKAFAA&checkin=2024-09-27&checkout=2024-09-29&group_adults=1&no_rooms=1&group_children=0).
 
-Es gibt auch Ferienwohnungen auf z.B. [Airbnb](https://de.airbnb.com/s/Flensburg-Solit%C3%BCde-Strand--Solit%C3%BCder-Stra%C3%9Fe--Flensburg--Deutschland/homes?tab_id=home_tab&refinement_paths%5B%5D=%2Fhomes&flexible_trip_lengths%5B%5D=one_week&monthly_start_date=2024-07-01&monthly_length=3&monthly_end_date=2024-10-01&price_filter_input_type=0&channel=EXPLORE&query=Flensburg%20Solit%C3%BCde%20Strand%2C%20Flensburg%2C%20Deutschland&place_id=ChIJ3ZHxQrhDs0cR-aOMByp4ZM4&location_bb=QltIo0EXwhpCW0XgQRe3DQ%3D%3D&date_picker_type=calendar&checkin=2024-09-27&checkout=2024-09-29&adults=1&source=structured_search_input_header&search_type=autocomplete_click). 
+There are also holiday flats on e.g. [Airbnb](https://de.airbnb.com/s/Flensburg-Solit%C3%BCde-Strand--Solit%C3%BCder-Stra%C3%9Fe--Flensburg--Deutschland/homes?tab_id=home_tab&refinement_paths%5B%5D=%2Fhomes&flexible_trip_lengths%5B%5D=one_week&monthly_start_date=2024-07-01&monthly_length=3&monthly_end_date=2024-10-01&price_filter_input_type=0&channel=EXPLORE&query=Flensburg%20Solit%C3%BCde%20Strand%2C%20Flensburg%2C%20Deutschland&place_id=ChIJ3ZHxQrhDs0cR-aOMByp4ZM4&location_bb=QltIo0EXwhpCW0XgQRe3DQ%3D%3D&date_picker_type=calendar&checkin=2024-09-27&checkout=2024-09-29&adults=1&source=structured_search_input_header&search_type=autocomplete_click). 
 
-Es gibt auch möglichkeiten über die [Genossenschaftlichen Gäse Wohnung Ring](https://www.gaeworing.de/gaestewohnungen/flensburg/wohnungen.html) Ferienwohnungen zu mieten. Wenn ihr selbst bei keiner mitmachenden Genossenschaft seid, könnt ihr uns eine e-Mail geschreiben.
+It is also possible to rent holiday flats via the [Genossenschaftlichen Gäste Wohnung Ring](https://www.gaeworing.de/gaestewohnungen/flensburg/wohnungen.html). If you are not a member of one of these co-operatives, please send us an e-mail.
 
-#### Zelten
-Es gibt in [Jarplund](http://www.campingplatz-jarplund.de/) einen Campingplatz, dieser ist leider recht weit entfernt und nicht wirklich praktikabel mit öffentlichen verkehrsmitteln erreichbar.
+#### Camping
+Es gibt einen Zeltplatz in [Jarplund](http://www.campingplatz-jarplund.de/), dieser ist aber leider recht weit entfernt und mit öffentlichen Verkehrsmitteln nicht wirklich gut zu erreichen.
 
-#### Sonstiges
-Es gibt die Möglichkeit kostenlos "Turnhallen ähnlich" unterzukommen. Diese Räumlichkeiten hat aber nur Toiletten und **keine** Dusche. Wenn das für dich interessant sein könnte, schreib uns eine E-Mail.
+#### Miscellaneous
+It is possible to spend the night in a "gym" free of charge. However, this room only has toilets and **no** shower. If you are interested, please send us an [e-mail](hotb@chaostreff-flensburg.de).
 
-### Getränke
-Wir werden auch Mate, Fritz Cola und einige Fritz Limonaden mitbringen und gegen eine Spende zur Verfügung stellen. Es gibt Leitungswasser und wir werden auch einen Wasserkocher mitbringen, aber es ist besser, wenn du deinen eigenen Tee mitbringst.
-Du kannst dir gerne deine eigenen Getränke mitbringen.
+### Beverages
+We will bring mate, Fritz-Kola and some Fritz lemonades and make them available for a donation. There will be tap water and we will also bring a kettle, but it is better if you bring your own tea.
+You can also bring your own drinks.
 
-Es wird keine offizielle Bar geben. Auch hier seid ihr eingeladen, eure eigenen Getränke mitzubringen und euch mit anderen auszutauschen.
+### Bring with you
+You are welcome to bring your own projects. Since we only have limited space, we ask you not to occupy any seats if you are not there and, if possible, to stow everything on the shelves on site. If you want to bring something bigger than a 3D printer, please send us an [email](mailto:hotb@chaostreff-flensburg.de) beforehand. We cannot accommodate anything that is very loud or dusty.
 
-### Mitbringen
-Du kannst gerne deine eigenen Projekte mitbringen. Da wir nur begrenzt platz haben bitten wir dich keine Plätze zu belegen wenn du nicht da bist und wenn möglich alles in die Regale Vor-Ort zu verstauen. Wenn du etwas größeres als ein 3D-Drucker mitbringen möchtest, schreib uns bitte vorher eine E-Mail. Alles was (sehr) laut oder staubig ist, können wir nicht unterbringen.
+### Barriers
+The event takes place on the 1st floor and there is no lift. There is no accessible toilet.
 
-### Barrieren
-Die Veranstaltung findet im 1. Stock statt und es gibt keinen Aufzug. Es gibt keine Barriarme Toilette.
-
-Wir werden keinen dezidierten Ruheraum haben. Die ganze Veranstaltung wird in einem langen gekrümmten Raum stattfinden.
+There is no separate quiet room. The entire event takes place in a long, curved room.
 
 ### Feedback
-Du hast Feedback? Wir haben ein [Pad](https://md.ctfl.space/hoth23_feedback)
+Do you have feedback? We have a [Pad](https://md.ctfl.space/hotb24_feedback)
 
-## Kontakt
-
-* E-Mail: hoth@chaostreff-flensburg.de
-* Öffentlich Matrix Raum: [#hoth-public:chaos.jetzt](https://matrix.to/#/#hoth-public:chaos.jetzt)
+## Contact
+* E-mail: hotb@chaostreff-flensburg.de
+* Public matrix space: [#hoth-public:chaos.now](https://matrix.to/#/#hoth-public:chaos.jetzt)
 * Mastodon: [@chaos_fl@chaos.social](https://chaos.social/@chaos_fl)
 * Instagram: [chaos_fl](https://www.instagram.com/chaos_fl/)
-* Webseite: [chaostreff-flensburg.de](https://chaostreff-flensburg.de/)
+* Website: [chaostreff-flensburg.de](https://chaostreff-flensburg.de/)
 
-<a rel="me" href="https://chaos.social/@chaos_fl">Unser Mastodon @chaos_fl@chaos.social</a>
+<a rel="me" href="https://chaos.social/@chaos_fl">Our mastodon @chaos_fl@chaos.social</a>
 
