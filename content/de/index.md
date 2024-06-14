@@ -34,33 +34,33 @@ Your browser does not support the video tag.
 | When | What |
 | :-- | :-- |
 | 11:42 | Set-up |
-| 18:42 | Opening |
-| 19:00 | Introduction 3D-Printing |
-| 20:00 | Hot-Dog Buffet TBD |
+| 18:42 | Official Opening |
+| TBD | Introduction 3D-Printing |
+| TBD | Food |
 | 02:30 | End of Day 1 (02:30 28.09.2024) |
 
 ### Saturday - Day 2 - 28.09.2024
 
 | When | What |
 | :-- | :-- |
-| HH:MM | Doors Opening Day 2 |
-| 10:00 | Breakfast TBD |
-| 14:00 | Jugend-Aktion |
-| 17:00 | Introduction Soldering |
-| 18:00 | Food? |
+| TBD | Doors Opening Day 2 |
+| TBD | Breakfast |
+| TBD | Jugend-Aktion |
+| TBD | Introduction Soldering |
+| TBD | Food |
 | 02:30 | End of Day 2 (02:30 29.09.2024) |
 
 ### Sunday - Day 3 - 29.09.2024
 
 | When | What |
 | :-- | :-- |
-| HH:MM | Doors Opening Day 3 |
-| 10:00 | Breakfast TBD |
+| TBD | Doors Opening Day 3 |
+| TBD | Breakfast |
 | 12:15 | Closing & Goodbye |
 | until ready | Dismantling |
 | 16:00 | Übergabe Location - Alles muss aufgeräumt und sauber sein |
 
-‼️ The programme is always WIP (Work in Progress). ‼
+TBD = In Planung.
     
 Während der gesamten Veranstaltung stehen eine 3D-Druckstation und eine Lötstation zur Verfügung.
 
