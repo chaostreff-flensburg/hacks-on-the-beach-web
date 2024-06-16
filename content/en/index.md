@@ -1,5 +1,5 @@
 ---
-lang: de
+lang: en
 id: index
 layout: Default.tsx
 url: /
