@@ -156,7 +156,7 @@ You can also bring your own drinks.
 ### Bring with you
 You are welcome to bring your own projects. Since we only have limited space, we ask you not to occupy any seats if you are not there and, if possible, to stow everything on the shelves on site. If you want to bring something bigger than a 3D printer, please send us an [email](mailto:hotb@chaostreff-flensburg.de) beforehand. We cannot accommodate anything that is very loud or dusty.
 
-### Barriers
+### Physical accessibility
 The event takes place on the 1st floor and there is no lift. There is no accessible toilet.
 
 There is no separate quiet room. The entire event takes place in a long, curved room.
