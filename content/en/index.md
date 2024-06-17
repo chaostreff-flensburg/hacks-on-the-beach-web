@@ -59,7 +59,7 @@ Your browser does not support the video tag.
 | until ready | Dismantling |
 | 16:00 | Handover location - everything must be tidy and clean |
 
-TBD = In Planung.
+TBD = To be decided.
     
 A 3D printing station and a soldering station will be available throughout the event.
 
