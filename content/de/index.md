@@ -72,7 +72,7 @@ Du hast noch mehr Fragen? Schreibe uns gerne eine E-Mail an hotb@chaostreff-flen
 Die Veranstaltung richtet sich an alle, die sich für Basteln, Programmieren, Hacken, Tüfteln, Löten, 3D-Drucken, Chaos und Netzpolitik interessieren oder begeistern können. Du musst kein Experte\*in sein oder Vorkenntnisse haben, um an dieser Veranstaltung teilzunehmen.
 **Am besten schaust du einfach mal vorbei.**
 
-Du solltest nicht kommen, wenn du an Verschwörungsmythen glaubst oder dich nicht an den [Code of Conduct](/coc/) hältst.
+Du solltest nicht kommen, wenn du an Verschwörungsmythen glaubst oder dich nicht an den [Code of Conduct](/de/coc/) hältst.
 
 ### Kommunikation während der Veranstaltung
 
@@ -119,7 +119,7 @@ Es gibt diverse Zugverbindungen ~~von Kiel (ca. 1 Stunde) und~~ von Hamburg (ca.
 #### Auto
 Das Hacks on the Beach ist leicht über die A7 und dann über die B200 zu erreichen. Aus Hamburg braucht ihr ca. 1 Stunde und 55 Minuten. Von Sonderburg sind es ca. 40 Minuten und von Kiel ca. 1 Stunde.
 Es gibt zahlreiche Parkplätze in fußläufiger Entfernung (ca. 2 Minuten / 200 Meter), jedoch keine Parkplätze direkt am Veranstaltungsort. Das Abstellen von Wohnmobilen ist in der Regel kein Problem. Toiletten und Duschen sind nicht vorhanden. Es gibt keine Duschen am Veranstaltungsort.
-Hinweis: Es gibt noch weitere Parkplätze, ob diese belegt oder frei sind, kannst du in der App CityPilot sehen.
+Hinweis: Es gibt noch weitere Parkplätze, ob diese belegt oder frei sind, kannst du in der App CityPilot sehen. [Android](https://play.google.com/store/apps/details?id=com.smartcitysystem.citypilot&hl=de) | [Apple](https://apps.apple.com/de/app/citypilot-einfach-parken/id1540748938)
 
 #### Sontiges
 In Flensburg kann man relativ günstig mit dem Taxi fahren.

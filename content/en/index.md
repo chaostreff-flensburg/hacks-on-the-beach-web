@@ -120,7 +120,7 @@ There are various train connections ~~ from Kiel (approx. 1 hour) and ~~ from Ha
 
 Hacks on the Beach is easy to reach via the A7 motorway and then the B200. From Hamburg you need about 1 hour and 55 minutes. From Sonderburg it is approx. 40 minutes and from Kiel approx. 1 hour.
 There are numerous parking spaces within walking distance (approx. 2 minutes / 200 metres), but no parking spaces directly at the venue. Caravan parking is generally not a problem. Toilets and showers are not available. There are no showers at the venue.
-Note: There are additional parking spaces, you can see whether they are occupied or available in the CityPilot app.
+Note: There are additional parking spaces, you can see whether they are occupied or available in the CityPilot app. [Android](https://play.google.com/store/apps/details?id=com.smartcitysystem.citypilot&hl=de) | [Apple](https://apps.apple.com/de/app/citypilot-einfach-parken/id1540748938)
 
 #### Miscellaneous
 
@@ -144,7 +144,7 @@ There are also holiday flats on e.g. [Airbnb](https://de.airbnb.com/s/Flensburg-
 It is also possible to rent holiday flats via the [Genossenschaftlichen Gäste Wohnung Ring](https://www.gaeworing.de/gaestewohnungen/flensburg/wohnungen.html). If you are not a member of one of these co-operatives, please send us an e-mail.
 
 #### Camping
-Es gibt einen Zeltplatz in [Jarplund](http://www.campingplatz-jarplund.de/), dieser ist aber leider recht weit entfernt und mit öffentlichen Verkehrsmitteln nicht wirklich gut zu erreichen.
+There is a campsite in [Jarplund](http://www.campingplatz-jarplund.de/), but unfortunately it is quite far away and not really easy to reach by public transport.
 
 #### Miscellaneous
 It is possible to spend the night in a "gym" free of charge. However, this room only has toilets and **no** shower. If you are interested, please send us an [e-mail](mailto:hotb@chaostreff-flensburg.de).
