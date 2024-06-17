@@ -11,7 +11,7 @@ export default (props) => (
         </a>
         <a href="/#program">Program</a>
         <a href="/#faq">F.A.Q.</a>
-        <a href="/coc">CoC</a>
+        <a href="/coc/">CoC</a>
       </>
     ) : (
       <>
@@ -24,7 +24,7 @@ export default (props) => (
         </a>
         <a href="/de/#programm">Programm</a>
         <a href="/de/#faq">F.A.Q.</a>
-        <a href="/de/coc">CoC</a>
+        <a href="/de/coc/">CoC</a>
       </>
     )}
   </nav>
