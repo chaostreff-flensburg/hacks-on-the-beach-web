@@ -104,7 +104,7 @@ By all means! That's exactly what our events are all about: tinkering, crafting,
 
 ### How much does a ticket cost?
 
-Tickets are free, but you can make a voluntary contribution to the event ( a donation). The money will be administered by the Chaos Computer Club Flensburg e.V. (non-profit organisation).
+Tickets are free, but you can make a voluntary contribution to the event (a donation). The money will be administered by the Chaos Computer Club Flensburg e.V. (non-profit organisation).
 
 ### Travelling
 
