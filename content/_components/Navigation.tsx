@@ -3,7 +3,7 @@ export default (props) => (
     {props.lang === "en" ? (
       <>
         <a
-          href="https://tickets.chaostreff-flensburg.de/hoth/hoth23/"
+          href="https://tickets.chaostreff-flensburg.de/hoth/hotb-24/"
           class="nav-link"
           target="_blank"
         >
@@ -16,7 +16,7 @@ export default (props) => (
     ) : (
       <>
         <a
-          href="https://tickets.chaostreff-flensburg.de/hoth/hoth23/"
+          href="https://tickets.chaostreff-flensburg.de/hoth/hotb-24/"
           class="nav-link"
           target="_blank"
         >
