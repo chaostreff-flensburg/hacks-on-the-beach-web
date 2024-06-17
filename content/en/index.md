@@ -147,7 +147,7 @@ It is also possible to rent holiday flats via the [Genossenschaftlichen Gäste W
 Es gibt einen Zeltplatz in [Jarplund](http://www.campingplatz-jarplund.de/), dieser ist aber leider recht weit entfernt und mit öffentlichen Verkehrsmitteln nicht wirklich gut zu erreichen.
 
 #### Miscellaneous
-It is possible to spend the night in a "gym" free of charge. However, this room only has toilets and **no** shower. If you are interested, please send us an [e-mail](hotb@chaostreff-flensburg.de).
+It is possible to spend the night in a "gym" free of charge. However, this room only has toilets and **no** shower. If you are interested, please send us an [e-mail](mailto:hotb@chaostreff-flensburg.de).
 
 ### Beverages
 We will bring mate, Fritz-Kola and some Fritz lemonades and make them available for a donation. There will be tap water and we will also bring a kettle, but it is better if you bring your own tea.
