@@ -2,7 +2,7 @@ export default ({ title, children, ...props }) => (
   <html lang="de">
     <head>
       <title>
-        {title ? `${title} - "#HOTH"` : "Hacks on the Harbour #HOTH"}
+        {title ? `${title} - "#HOTH"` : "Hacks on the Beach #HOTB"}
       </title>
       <meta charset="utf-8" />
       <meta name="viewport" content="width=device-width, initial-scale=1" />
