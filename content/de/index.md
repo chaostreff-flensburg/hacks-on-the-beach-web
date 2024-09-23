@@ -35,8 +35,8 @@ Your browser does not support the video tag.
 | :-- | :-- |
 | 11:42 | Set-up |
 | 18:42 | Official Opening |
-| TBD | Introduction 3D-Printing |
 | TBD | Food |
+| 20:30 | Introduction 3D-Printing |
 | 02:30 | End of Day 1 (02:30 28.09.2024) |
 
 ### Saturday - Day 2 - 28.09.2024
@@ -46,6 +46,8 @@ Your browser does not support the video tag.
 | TBD | Doors Opening Day 2 |
 | TBD | Breakfast |
 | TBD | Introduction Soldering |
+| TBD | (Coffee and) Cake |
+| 16:00 | Geneneral Meeting Chaos Computer Club Flensburg e.V. |
 | TBD | Food |
 | 02:30 | End of Day 2 (02:30 29.09.2024) |
 
