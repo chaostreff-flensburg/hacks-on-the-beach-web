@@ -44,7 +44,6 @@ Your browser does not support the video tag.
 | :-- | :-- |
 | TBD | Doors Opening Day 2 |
 | TBD | Breakfast |
-| TBD | Jugend-Aktion |
 | TBD | Introduction Soldering |
 | TBD | Food |
 | 02:30 | End of Day 2 (02:30 29.09.2024) |
