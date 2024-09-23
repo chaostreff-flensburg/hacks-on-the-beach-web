@@ -35,7 +35,7 @@ Your browser does not support the video tag.
 | :-- | :-- |
 | 11:42 | Set-up |
 | 18:42 | Official Opening |
-| TBD | Food |
+| 19:00 | Food |
 | 20:30 | Introduction 3D-Printing |
 | 02:30 | End of Day 1 (02:30 28.09.2024) |
 
@@ -43,20 +43,20 @@ Your browser does not support the video tag.
 
 | When | What |
 | :-- | :-- |
-| TBD | Doors Opening Day 2 |
-| TBD | Breakfast |
+| ~09:15 | Doors Opening Day 2 |
+| 09:30 | Breakfast |
 | TBD | Introduction Soldering |
-| TBD | (Coffee and) Cake |
+| 14:30 | (Coffee and) Cake |
 | 16:00 | Geneneral Meeting Chaos Computer Club Flensburg e.V. |
-| TBD | Food |
+| 18:00 | Food |
 | 02:30 | End of Day 2 (02:30 29.09.2024) |
 
 ### Sunday - Day 3 - 29.09.2024
 
 | When | What |
 | :-- | :-- |
-| TBD | Doors Opening Day 3 |
-| TBD | Breakfast |
+| ~09:15 | Doors Opening Day 3 |
+| 09:30 | Breakfast |
 | 12:15 | Closing & Goodbye |
 | until ready | Dismantling |
 | 16:00 | Übergabe Location - Alles muss aufgeräumt und sauber sein |
