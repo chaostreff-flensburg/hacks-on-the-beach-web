@@ -161,6 +161,12 @@ The event takes place on the 1st floor and there is no lift. There is no accessi
 
 There is no separate quiet room. The entire event takes place in a long, curved room.
 
+### Meetups
+
+#### Danish-German region Toki Pona society annual meeting
+
+The Danish-German region Toki Pona society works to promote the Toki Pona movement. Our annual meeting is co-located with Hacks on the Harbor. We invite newcomers to join.
+
 ### Feedback
 Do you have feedback? We have a [Pad](https://md.ctfl.space/hotb24_feedback)
 
