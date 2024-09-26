@@ -45,6 +45,7 @@ Your browser does not support the video tag.
 | :-- | :-- |
 | ~09:15 | Doors Opening Day 2 |
 | 09:30 | Breakfast |
+| 11:00 | Baden in der Ostsee |
 | TBD | Introduction Soldering |
 | 14:30 | (Coffee and) Cake |
 | 16:00 | Geneneral Meeting Chaos Computer Club Flensburg e.V. |
@@ -57,6 +58,7 @@ Your browser does not support the video tag.
 | :-- | :-- |
 | ~09:15 | Doors Opening Day 3 |
 | 09:30 | Breakfast |
+| 11:00 | Baden in der Ostsee |
 | 12:15 | Closing & Goodbye |
 | until ready | Dismantling |
 | 16:00 | Übergabe Location - Alles muss aufgeräumt und sauber sein |

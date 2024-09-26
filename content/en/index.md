@@ -44,6 +44,7 @@ Your browser does not support the video tag.
 | :-- | :-- |
 | ~09:15 | Doors Opening Day 2 |
 | 09:30 | Breakfast |
+| 11:00 | Swimming in the Baltic Sea |
 | TBD | Introduction Soldering |
 | 14:30 | (Kaffe und) Kuchen |
 | 16:00 | Mitgliederversammlung Chaos Computer Club Flensburg e.V. |
@@ -56,6 +57,7 @@ Your browser does not support the video tag.
 | :-- | :-- |
 | ~09:15 | Doors Opening Day 3 |
 | 09:30 | Breakfast |
+| 11:00 | Swimming in the Baltic Sea |
 | 12:15 | Closing & Goodbye |
 | until ready | Dismantling |
 | 16:00 | Handover location - everything must be tidy and clean |
