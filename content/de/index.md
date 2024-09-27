@@ -37,6 +37,7 @@ Your browser does not support the video tag.
 | 18:42 | Official Opening |
 | 19:00 | Food - Ofen Gemüse |
 | 20:30 | Introduction 3D-Printing |
+| 21:30 | Introduction Soldering |
 | 02:30 | End of Day 1 (02:30 28.09.2024) |
 
 ### Saturday - Day 2 - 28.09.2024
@@ -46,7 +47,7 @@ Your browser does not support the video tag.
 | ~09:15 | Doors Opening Day 2 |
 | 09:30 | Breakfast |
 | 11:00 | Baden in der Ostsee |
-| TBD | Introduction Soldering |
+| 12:30 | Introduction Soldering |
 | 14:30 | (Coffee and) Cake |
 | 16:00 | Geneneral Meeting Chaos Computer Club Flensburg e.V. |
 | 18:00 | Food - DIY Vöner Teller |
