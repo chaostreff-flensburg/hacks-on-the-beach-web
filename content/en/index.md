@@ -36,6 +36,7 @@ Your browser does not support the video tag.
 | 18:42 | Official Opening |
 | 19:00 | Food - oven vegetables |
 | 20:30 | Introduction 3D-Printing by pfannkuchensack |
+| 21:30 | Introduction Soldering |
 | 02:30 | End of Day 1 (02:30 28.09.2024) |
 
 ### Saturday - Day 2 - 28.09.2024
@@ -45,7 +46,7 @@ Your browser does not support the video tag.
 | ~09:15 | Doors Opening Day 2 |
 | 09:30 | Breakfast |
 | 11:00 | Swimming in the Baltic Sea |
-| TBD | Introduction Soldering |
+| 12:30 | Introduction Soldering |
 | 14:30 | (Kaffe und) Kuchen |
 | 16:00 | Mitgliederversammlung Chaos Computer Club Flensburg e.V. |
 | 18:00 | Food - diy vegan kebab plate |
