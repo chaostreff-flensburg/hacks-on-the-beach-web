@@ -5,18 +5,20 @@ layout: Default.tsx
 url: /
 ---
 
-# Hacks on the Beach 2024 #hotb24
+# Hacks on the Beach 2025 #hotb25
 
-Hacks on the Beach ist ein kleines Hack- & Frickelfestival direkt an der Flensburger Förde.  Zum vierten Mal kannst du ein ganzes Wochenende mit Meerblick an deinen und anderen Projekten arbeiten. Dazu gibt es super coole Leute, leckeres Essen und jede Menge Spaß. [Zum Ticketshop](https://tickets.chaostreff-flensburg.de/hoth/hotb-24/)
+Save the Date: 19.09 (friday) - 21.09.2025.
+
+Hacks on the Beach ist ein kleines Hack- & Frickelfestival direkt an der Flensburger Förde.  Zum vierten Mal kannst du ein ganzes Wochenende mit Meerblick an deinen und anderen Projekten arbeiten. Dazu gibt es super coole Leute, leckeres Essen und jede Menge Spaß. [Zum Ticketshop TBA]()
 
 <p>WO:<br>Strandpavillon Solitüde<br>54°49’20.8″N 9°29’22.1″E<br>Flensburg</p>
 
 [Open Streep Map](https://www.openstreetmap.org/search?query=54.82238%2C9.48952#map=19/54.82238/9.48952) | [Google Maps](https://www.google.com/maps/place/Solitude+Restaurant/@54.8213002,9.4866206,17z/data=!4m5!3m4!1s0x47b343af6afc09e5:0x8d4742d2e8b0b4af!8m2!3d54.8207686!4d9.4882353)
 
-<p>WANN:<br>27. – 29.09.2024, Von Freitag bis Sonntag</p>
+<p>WANN:<br>19. – 21.09.2025, Von Freitag bis Sonntag</p>
 
     
-<p>KOSTEN:<br>Für die Teilnahme benötigt ihr ein kostenloses Ticket. Damit wir Miete und Verpflegung bezahlen können, freuen wir uns, wenn ihr die Veranstaltung mit einer freiwilligen Spende unterstützt. Die Spendenempfehlung findet ihr im <a target="_blank" href="https://tickets.chaostreff-flensburg.de/hoth/hotb-24/">Ticketshop</a>.</p>
+<p>KOSTEN:<br>Für die Teilnahme benötigt ihr ein kostenloses Ticket. Damit wir Miete und Verpflegung bezahlen können, freuen wir uns, wenn ihr die Veranstaltung mit einer freiwilligen Spende unterstützt. Die Spendenempfehlung findet ihr im <a target="_blank" href="">Ticketshop TBA</a>.</p>
 
 <p>WER:<br>Organisiert wird das Ganze vom nördlichsten Hackspace Deutschlands, dem Chaos Computer Club Flensburg e.V.! Seit 2015 bringen und schaffen wir Chaos in Flensburg und zeigen den Besucher*innen gerne unsere schönsten Strände.</p>
 
@@ -28,41 +30,7 @@ Your browser does not support the video tag.
 <span>Video vom #hotb19 🎥 <a href="https://martinmoerke.de/" target="_blank">@martinmoerke</a></span>
 
 ## Programm
-    
-### Friday - Day 1 - 27.09.2024
-
-| When | What |
-| :-- | :-- |
-| 11:42 | Set-up |
-| 18:42 | Official Opening |
-| 19:00 | Food - Ofen Gemüse |
-| 20:30 | Introduction 3D-Printing |
-| 21:30 | Introduction Soldering |
-| 02:30 | End of Day 1 (02:30 28.09.2024) |
-
-### Saturday - Day 2 - 28.09.2024
-
-| When | What |
-| :-- | :-- |
-| ~09:15 | Doors Opening Day 2 |
-| 09:30 | Breakfast |
-| 11:00 | Baden in der Ostsee |
-| 12:30 | Introduction Soldering |
-| 14:30 | (Coffee and) Cake |
-| 16:00 | Geneneral Meeting Chaos Computer Club Flensburg e.V. |
-| 18:00 | Food - DIY Vöner Teller |
-| 02:30 | End of Day 2 (02:30 29.09.2024) |
-
-### Sunday - Day 3 - 29.09.2024
-
-| When | What |
-| :-- | :-- |
-| ~09:15 | Doors Opening Day 3 |
-| 09:30 | Breakfast |
-| 11:00 | Baden in der Ostsee |
-| 12:15 | Closing & Goodbye |
-| until ready | Dismantling |
-| 16:00 | Übergabe Location - Alles muss aufgeräumt und sauber sein |
+TBA
 
 TBD = In Planung.
     
@@ -138,9 +106,9 @@ Es gibt in Flensburg zwei Hostels:
 - [seemansheim flensburg](https://www.seemannsheim-flensburg.de/) (Sehr nah am Hafen)
 - Es gibt auch eine [DJH - Jugendherberge](https://www.jugendherberge.de/jugendherbergen/flensburg/)
 
-Es gibt in Flensburg diverse Hotels. [Siehe Booking](https://www.booking.com/searchresults.de.html?ss=Flensburg+Solit%C3%BCde%2C+Flensburg%2C+Schleswig-Holstein%2C+Deutschland&ssne=Flensburg&ssne_untouched=Flensburg&label=gen173nr-1FCAEoggI46AdIM1gEaKoBiAEBmAEHuAEZyAEM2AEB6AEB-AELiAIBqAIDuALF4PuyBsACAdICJDZhZDhmZjFjLWFjODktNDE0My05YTkzLTc1OWEyMDcxYWM3NNgCBuACAQ&sid=3842d8c8b4cadcf25c8d8d6575f077ff&aid=304142&lang=de&sb=1&src_elem=sb&src=searchresults&dest_id=10764043&dest_type=hotel&ac_position=0&ac_click_type=b&ac_langcode=de&ac_suggestion_list_length=5&search_selected=true&search_pageview_id=0fe14bb27e00011c&ac_meta=GhAzOGE0NGJjNGMzMWMwMjE3IAAoATICZGU6EUZsZW5zYnVyZyBzb2xpdMO8QABKAFAA&checkin=2024-09-27&checkout=2024-09-29&group_adults=1&no_rooms=1&group_children=0).
+Es gibt in Flensburg diverse Hotels. [Siehe Booking](https://www.booking.com/searchresults.de.html?ss=Flensburg+Solit%C3%BCde%2C+Flensburg%2C+Schleswig-Holstein%2C+Deutschland&ssne=Flensburg&ssne_untouched=Flensburg&label=gen173nr-1FCAEoggI46AdIM1gEaKoBiAEBmAEHuAEZyAEM2AEB6AEB-AELiAIBqAIDuALF4PuyBsACAdICJDZhZDhmZjFjLWFjODktNDE0My05YTkzLTc1OWEyMDcxYWM3NNgCBuACAQ&sid=3842d8c8b4cadcf25c8d8d6575f077ff&aid=304142&lang=de&sb=1&src_elem=sb&src=searchresults&dest_id=10764043&dest_type=hotel&ac_position=0&ac_click_type=b&ac_langcode=de&ac_suggestion_list_length=5&search_selected=true&search_pageview_id=0fe14bb27e00011c&ac_meta=GhAzOGE0NGJjNGMzMWMwMjE3IAAoATICZGU6EUZsZW5zYnVyZyBzb2xpdMO8QABKAFAA&checkin=2025-09-19&checkout=2025-09-21&group_adults=1&no_rooms=1&group_children=0).
 
-Es gibt auch Ferienwohnungen auf z.B. [Airbnb](https://de.airbnb.com/s/Flensburg-Solit%C3%BCde-Strand--Solit%C3%BCder-Stra%C3%9Fe--Flensburg--Deutschland/homes?tab_id=home_tab&refinement_paths%5B%5D=%2Fhomes&flexible_trip_lengths%5B%5D=one_week&monthly_start_date=2024-07-01&monthly_length=3&monthly_end_date=2024-10-01&price_filter_input_type=0&channel=EXPLORE&query=Flensburg%20Solit%C3%BCde%20Strand%2C%20Flensburg%2C%20Deutschland&place_id=ChIJ3ZHxQrhDs0cR-aOMByp4ZM4&location_bb=QltIo0EXwhpCW0XgQRe3DQ%3D%3D&date_picker_type=calendar&checkin=2024-09-27&checkout=2024-09-29&adults=1&source=structured_search_input_header&search_type=autocomplete_click). 
+Es gibt auch Ferienwohnungen auf z.B. [Airbnb](https://de.airbnb.com/s/Flensburg-Solit%C3%BCde-Strand--Solit%C3%BCder-Stra%C3%9Fe--Flensburg--Deutschland/homes?tab_id=home_tab&refinement_paths%5B%5D=%2Fhomes&flexible_trip_lengths%5B%5D=one_week&monthly_start_date=2025-07-01&monthly_length=3&monthly_end_date=2025-10-01&price_filter_input_type=0&channel=EXPLORE&query=Flensburg%20Solit%C3%BCde%20Strand%2C%20Flensburg%2C%20Deutschland&place_id=ChIJ3ZHxQrhDs0cR-aOMByp4ZM4&location_bb=QltIo0EXwhpCW0XgQRe3DQ%3D%3D&date_picker_type=calendar&checkin=2025-09-19&checkout=2025-09-21&adults=1&source=structured_search_input_header&search_type=autocomplete_click). 
 
 Es gibt auch die Möglichkeit über die [Genossenschaftlichen Gäste Wohnung Ring](https://www.gaeworing.de/gaestewohnungen/flensburg/wohnungen.html) Ferienwohnungen zu mieten. Wer selbst nicht Mitglied in einer dieser Genossenschaften ist, kann uns eine E-Mail schreiben.
 
@@ -163,7 +131,7 @@ Die Veranstaltung findet im 1. Stock statt und es gibt keinen Aufzug. Es gibt ke
 Es gibt keinen separaten Ruheraum. Die gesamte Veranstaltung findet in einem langen, gebogenen Raum statt.
 
 ### Feedback
-Du hast Feedback? Wir haben ein [Pad](https://md.ctfl.space/hotb24_feedback)
+Du hast Feedback? Wir haben ein [Pad](https://md.ctfl.space/hotb25_feedback)
 
 ## Kontakt
 
@@ -171,7 +139,7 @@ Du hast Feedback? Wir haben ein [Pad](https://md.ctfl.space/hotb24_feedback)
 * Öffentlich Matrix Raum: [#hoth-public:chaos.jetzt](https://matrix.to/#/#hoth-public:chaos.jetzt)
 * Mastodon: [@chaos_fl@chaos.social](https://chaos.social/@chaos_fl)
 * Instagram: [chaos_fl](https://www.instagram.com/chaos_fl/)
-* Webseite: [chaostreff-flensburg.de](https://chaostreff-flensburg.de/)
+* Webseite: [c3fl.de](https://c3fl.de/)
 
 <a rel="me" href="https://chaos.social/@chaos_fl">Unser Mastodon @chaos_fl@chaos.social</a>
 
