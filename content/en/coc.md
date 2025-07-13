@@ -54,4 +54,4 @@ Children and young people are as important a part of our community as any other 
 
 If you or anyone else feels unsafe or unwelcome, please report to one of these main orga people as soon as possible:
 
-* scammo / Samuel Brinkmann / samuel@chaostreff-flensburg.de / Matrix: scammo@chaos.jetzt
+* scammo / Samuel Brinkmann / samuel@chaostreff-flensburg.de / Matrix: @scammo:fairydust.space
