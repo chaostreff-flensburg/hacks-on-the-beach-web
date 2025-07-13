@@ -9,7 +9,7 @@ url: /
 
 Save the Date: 19.09 (friday) - 21.09.2025.
 
-Hacks on the Beach ist ein kleines Hack- & Frickelfestival direkt an der Flensburger Förde.  Zum vierten Mal kannst du ein ganzes Wochenende mit Meerblick an deinen und anderen Projekten arbeiten. Dazu gibt es super coole Leute, leckeres Essen und jede Menge Spaß. [Zum Ticketshop TBA]()
+Hacks on the Beach ist ein kleines Hack- & Frickelfestival direkt an der Flensburger Förde.  Zum vierten Mal kannst du ein ganzes Wochenende mit Meerblick an deinen und anderen Projekten arbeiten. Dazu gibt es super coole Leute, leckeres Essen und jede Menge Spaß. [Zum Ticketshop TBD]()
 
 <p>WO:<br>Strandpavillon Solitüde<br>54°49’20.8″N 9°29’22.1″E<br>Flensburg</p>
 
@@ -18,7 +18,7 @@ Hacks on the Beach ist ein kleines Hack- & Frickelfestival direkt an der Flensbu
 <p>WANN:<br>19. – 21.09.2025, Von Freitag bis Sonntag</p>
 
     
-<p>KOSTEN:<br>Für die Teilnahme benötigt ihr ein kostenloses Ticket. Damit wir Miete und Verpflegung bezahlen können, freuen wir uns, wenn ihr die Veranstaltung mit einer freiwilligen Spende unterstützt. Die Spendenempfehlung findet ihr im <a target="_blank" href="">Ticketshop TBA</a>.</p>
+<p>KOSTEN:<br>Für die Teilnahme benötigt ihr ein kostenloses Ticket. Damit wir Miete und Verpflegung bezahlen können, freuen wir uns, wenn ihr die Veranstaltung mit einer freiwilligen Spende unterstützt. Die Spendenempfehlung findet ihr im <a target="_blank" href="">Ticketshop TBD</a>.</p>
 
 <p>WER:<br>Organisiert wird das Ganze vom nördlichsten Hackspace Deutschlands, dem Chaos Computer Club Flensburg e.V.! Seit 2015 bringen und schaffen wir Chaos in Flensburg und zeigen den Besucher*innen gerne unsere schönsten Strände.</p>
 
@@ -30,7 +30,7 @@ Your browser does not support the video tag.
 <span>Video vom #hotb19 🎥 <a href="https://martinmoerke.de/" target="_blank">@martinmoerke</a></span>
 
 ## Programm
-TBA
+TBD
 
 TBD = In Planung.
     
