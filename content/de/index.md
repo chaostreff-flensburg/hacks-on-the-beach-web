@@ -7,7 +7,7 @@ url: /
 
 # Hacks on the Beach 2025 #hotb25
 
-Save the Date: 19.09 (friday) - 21.09.2025.
+Save the Date: 19.09 (freitag) - 21.09.2025.
 
 Hacks on the Beach ist ein kleines Hack- & Frickelfestival direkt an der Flensburger Förde.  Zum vierten Mal kannst du ein ganzes Wochenende mit Meerblick an deinen und anderen Projekten arbeiten. Dazu gibt es super coole Leute, leckeres Essen und jede Menge Spaß. [Zum Ticketshop](https://tickets.c3fl.de/c3fle/hotb-25/)
 
