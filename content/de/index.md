@@ -9,7 +9,7 @@ url: /
 
 Save the Date: 19.09 (friday) - 21.09.2025.
 
-Hacks on the Beach ist ein kleines Hack- & Frickelfestival direkt an der Flensburger Förde.  Zum vierten Mal kannst du ein ganzes Wochenende mit Meerblick an deinen und anderen Projekten arbeiten. Dazu gibt es super coole Leute, leckeres Essen und jede Menge Spaß. [Zum Ticketshop TBD]()
+Hacks on the Beach ist ein kleines Hack- & Frickelfestival direkt an der Flensburger Förde.  Zum vierten Mal kannst du ein ganzes Wochenende mit Meerblick an deinen und anderen Projekten arbeiten. Dazu gibt es super coole Leute, leckeres Essen und jede Menge Spaß. [Zum Ticketshop](https://tickets.c3fl.de/c3fle/hotb-25/)
 
 <p>WO:<br>Strandpavillon Solitüde<br>54°49’20.8″N 9°29’22.1″E<br>Flensburg</p>
 

@@ -1,6 +1,6 @@
 import lume from "lume/mod.ts";
 import lightningcss from "lume/plugins/lightningcss.ts";
-import minify_html from "lume/plugins/minify_html.ts";
+//import minify_html from "lume/plugins/minify_html.ts";
 import tailwindcss from "lume/plugins/tailwindcss.ts";
 import postcss from "lume/plugins/postcss.ts";
 import multilanguage from "lume/plugins/multilanguage.ts";
@@ -29,7 +29,7 @@ site.use(
     defaultLanguage: "en",
   })
 );
-site.use(minify_html());
+//site.use(minify_html());
 site.use(
   tailwindcss({
     extensions: [".html", ".tsx"],

@@ -9,7 +9,7 @@ url: /
 
 Save the Date: 19.09 (friday) - 21.09.2025.
 
-Hacks on the Beach is a small hack & frickel festival right on the Flensburg Fjord.  For the fourth time, you can spend a whole weekend working on your own and other projects with a view of the sea. There are also super cool people, delicious food and lots of fun. [To the ticket shop TDB]()
+Hacks on the Beach is a small hack & frickel festival right on the Flensburg Fjord.  For the fourth time, you can spend a whole weekend working on your own and other projects with a view of the sea. There are also super cool people, delicious food and lots of fun. [To the ticket shop](https://tickets.c3fl.de/c3fle/hotb-25/)
 
 <p>WHERE:<br>Strandpavillon Solitüde<br>54°49’20.8″N 9°29’22.1″E<br>Flensburg, Germany</p>
 
