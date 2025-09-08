@@ -29,11 +29,63 @@ Your browser does not support the video tag.
 <span>Video vom #hotb19 🎥 <a href="https://martinmoerke.de/" target="_blank">@martinmoerke</a></span>
 
 ## Programm
-TBD
+### Friday - Day 1 - 19.09.2024
+
+| When | What |
+| :-- | :-- |
+| 11:42 | Set-up |
+| 18:42 | Official Opening |
+| 19:00 | Food - oven vegetables |
+| 20:00 | Workshop for the cutest LED earrings/pins ever (Deutsch/English) More Information Below by M |
+| 21:00 | TBD: Introduction 3D-Printing by pfannkuchensack |
+| 21:30 | TBD: Introduction Soldering - Rakeden Löten by Jost |
+| 02:30 | End of Day 1 (02:30 20.09.2024) |
+
+### Saturday - Day 2 - 20.09.2024
+
+| When | What |
+| :-- | :-- |
+| ~09:15 | Doors Opening Day 2 |
+| 09:30 | Breakfast |
+| 11:00 | Swimming in the Baltic Sea (DIY Session) |
+| 13:00 | Spezial-Jugendtreff: Jung-Hacker*innen-Tag |
+| 13:30 | TBD: Introduction Soldering |
+| 14:30 | TBD: (Kaffe und) Kuchen  |
+| 16:00 | Mitgliederversammlung Chaos Computer Club Flensburg e.V. |
+| 18:00 | Food - diy vegan kebab plate |
+| 02:30 | End of Day 2 (02:30 21.09.2024) |
+
+### Sunday - Day 3 - 21.09.2024
+
+| When | What |
+| :-- | :-- |
+| ~09:15 | Doors Opening Day 3 |
+| 09:30 | Breakfast |
+| 11:00 | Swimming in the Baltic Sea (DIY Session) |
+| 12:30 | Closing & Goodbye |
+| until ready | Dismantling |
+| 16:00 | Handover location - everything must be tidy and clean |
 
 TBD = In Planung.
-    
+
+### All days
+
 Während der gesamten Veranstaltung stehen eine 3D-Druckstation und eine Lötstation zur Verfügung.
+
+####  Workshop for the cutest LED earrings/pins ever (Deutsch/English)
+
+So you’re camping on a mysterious island but forgot your torch light? Just put on your cute blinking earrings and they’ll light you the way to the next party place!
+
+Accessible for all ages, beginners and designers. We want to be inspired by your ideas and designs!
+
+We’ll do:
+- soldering (that’s hot and can burn)
+- assembling (tiny stuff that should not be eaten)
+Small kids should bring someone to help them be safe.
+
+Donation/5Euro
+
+[Link to Image](https://content.fri3d.be/media/fri3dcamp2024/submissions/N3PNZD/C77095D3-95E5-4121-94EA-CAA495390F85_mIJXC3S.jpeg)
 
 ## FAQ
 
