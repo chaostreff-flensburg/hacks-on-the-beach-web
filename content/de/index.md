@@ -37,8 +37,8 @@ Your browser does not support the video tag.
 | 18:42 | Official Opening |
 | 19:00 | Food - oven vegetables |
 | 20:00 | Workshop for the cutest LED earrings/pins ever (Deutsch/English) More Information Below by M |
-| 21:00 | TBD: Introduction 3D-Printing by pfannkuchensack |
-| 21:30 | TBD: Introduction Soldering - Rakeden Löten by Jost |
+| 21:00 | Introduction 3D-Printing by pfannkuchensack |
+| 21:30 | Introduction Soldering - Rakeden Löten by Jost |
 | 02:30 | End of Day 1 (02:30 20.09.2024) |
 
 ### Saturday - Day 2 - 20.09.2024
@@ -49,11 +49,11 @@ Your browser does not support the video tag.
 | 09:30 | Breakfast |
 | 11:00 | Swimming in the Baltic Sea (DIY Session) |
 | 11:00-20:00 | Druckwerkstatt - unten mehr Informationen von Contenna |
-| 13:00 | Spezial-Jugendtreff: Jung-Hacker*innen-Tag |
-| 13:30 | TBD: Introduction Soldering |
-| 14:30 | TBD: (Kaffe und) Kuchen  |
+| 13:00 | Spezial-Jugendtreff: Jung-Hacker*innen-Tag (Extra Anmeldung erforderlich) |
+| 14:30 | Kaffe undSnacks  |
 | 16:00 | Mitgliederversammlung Chaos Computer Club Flensburg e.V. |
 | 18:00 | Food - diy vegan kebab plate |
+| 19:30 | Incident Response Meetup / Q&A by ph0lk3r |
 | 02:30 | End of Day 2 (02:30 21.09.2024) |
 
 ### Sunday - Day 3 - 21.09.2024

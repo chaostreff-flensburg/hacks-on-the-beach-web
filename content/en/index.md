@@ -50,11 +50,11 @@ Your browser does not support the video tag.
 | 09:30 | Breakfast |
 | 11:00 | Swimming in the Baltic Sea (DIY Session) |
 | 11:00-20:00 | Textile Printing Workshop - more Information below by Contenna |
-| 13:00 | Spezial-Jugendtreff: Jung-Hacker*innen-Tag |
-| 13:30 | TBD: Introduction Soldering |
-| 14:30 | TBD: (Kaffe und) Kuchen  |
+| 13:00 | Spezial-Jugendtreff: Jung-Hacker*innen-Tag (extra ticket needed) |
+| 14:30 | Coffe and snacks  |
 | 16:00 | Mitgliederversammlung Chaos Computer Club Flensburg e.V. |
 | 18:00 | Food - diy vegan kebab plate |
+| 19:30 | Incident Response Meetup / Q&A by ph0lk3r |
 | 02:30 | End of Day 2 (02:30 21.09.2024) |
 
 ### Sunday - Day 3 - 21.09.2024
