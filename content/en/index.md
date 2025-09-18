@@ -49,6 +49,7 @@ Your browser does not support the video tag.
 | ~09:15 | Doors Opening Day 2 |
 | 09:30 | Breakfast |
 | 11:00 | Swimming in the Baltic Sea (DIY Session) |
+| 11:00-20:00 | Textile Printing Workshop - more Information below by Contenna |
 | 13:00 | Spezial-Jugendtreff: Jung-Hacker*innen-Tag |
 | 13:30 | TBD: Introduction Soldering |
 | 14:30 | TBD: (Kaffe und) Kuchen  |
@@ -87,6 +88,13 @@ Small kids should bring someone to help them be safe.
 Donation/5Euro
 
 [Link to Image](https://content.fri3d.be/media/fri3dcamp2024/submissions/N3PNZD/C77095D3-95E5-4121-94EA-CAA495390F85_mIJXC3S.jpeg)
+
+#### Textile Printing Workshop
+You're missing a nice souvenir from the event to remember the Hacks on the Beach? Something like a shirt?
+How about creating that yourself?
+In this Workshop we create motives out of flat building bricks and print them either on textiles or paper (just like lino printing).
+Please bring textiles yourself, 100% is best suited for the purpose.
+Anything else is ready for you.
 
 ## FAQ
 
