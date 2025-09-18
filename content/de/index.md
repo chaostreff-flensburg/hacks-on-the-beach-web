@@ -48,7 +48,7 @@ Your browser does not support the video tag.
 | ~09:15 | Doors Opening Day 2 |
 | 09:30 | Breakfast |
 | 11:00 | Swimming in the Baltic Sea (DIY Session) |
-| 11:00-20:00 | Druckwerkstatt/ Textile Printing Workshop - unten mehr Informationen von Contenna |
+| 11:00-20:00 | Druckwerkstatt - unten mehr Informationen von Contenna |
 | 13:00 | Spezial-Jugendtreff: Jung-Hacker*innen-Tag |
 | 13:30 | TBD: Introduction Soldering |
 | 14:30 | TBD: (Kaffe und) Kuchen  |
