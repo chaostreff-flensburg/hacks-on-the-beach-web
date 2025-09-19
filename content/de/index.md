@@ -36,7 +36,7 @@ Your browser does not support the video tag.
 | 11:42 | Set-up |
 | 18:42 | Official Opening |
 | 19:00 | Food - oven vegetables |
-| 20:00 | Workshop for the cutest LED earrings/pins ever (Cancelled due to lost packages / possibly Saturday) |
+| 20:00 | ~~Workshop for the cutest LED earrings/pins ever~~ (Cancelled due to lost packages / possibly Saturday) |
 | 21:00 | Introduction 3D-Printing by pfannkuchensack |
 | 21:30 | Introduction Soldering - Rakeden Löten by Jost |
 | 02:30 | End of Day 1 (02:30 20.09.2024) |
@@ -88,7 +88,7 @@ Donation/5Euro
 
 [Link to Image](https://content.fri3d.be/media/fri3dcamp2024/submissions/N3PNZD/C77095D3-95E5-4121-94EA-CAA495390F85_mIJXC3S.jpeg)
 
-#### Textile Druckwerkstatt
+#### Textile Druckwerkstatt	QKG7K
 Dir fehlt ein angemessenes Andenken an das Hacks on the beach? So was wie ein Shirt?
 Warum nicht selbst kreieren?
 In diesem Workshop bauen wir Motive mit flachen Klemmbausteinen und drucken diese dann per Hochdruckverfahren (wie Linoldruck) Wahlweise auf Papier oder Textilien.
