@@ -36,7 +36,6 @@ Your browser does not support the video tag.
 | 11:42 | Set-up |
 | 18:42 | Official Opening |
 | 19:00 | Food - oven vegetables |
-| 20:00 | ~~Workshop for the cutest LED earrings/pins ever~~ (Cancelled due to lost packages / possibly Saturday) |
 | 21:00 | Introduction 3D-Printing by pfannkuchensack |
 | 21:30 | Introduction Soldering - Rakeden Löten by Jost |
 | 02:30 | End of Day 1 (02:30 20.09.2024) |
@@ -54,6 +53,7 @@ Your browser does not support the video tag.
 | 16:00 | Mitgliederversammlung Chaos Computer Club Flensburg e.V. |
 | 18:00 | Food - diy vegan kebab plate |
 | 19:30 | Incident Response Meetup / Q&A by ph0lk3r |
+| 21:30 | Workshop for the cutest LED earrings/pins ever (Deutsch/English) More Information Below by M |
 | 02:30 | End of Day 2 (02:30 21.09.2024) |
 
 ### Sunday - Day 3 - 21.09.2024
