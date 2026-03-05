@@ -5,21 +5,23 @@ layout: Default.tsx
 url: /
 ---
 
-# Hacks on the Beach 2025 #hotb25
+# Hacks on the Beach 2026 #hotb26
 
-Hacks on the Beach is a small hack & frickel festival right on the Flensburg Fjord.  For the fourth time, you can spend a whole weekend working on your own and other projects with a view of the sea. There are also super cool people, delicious food and lots of fun. [To the ticket shop](https://tickets.c3fl.de/c3fle/hotb-25/)
+Save the Date: 11.09 (friday) - 13.09.2026.
+
+Hacks on the Beach is a small hack & frickel festival right on the Flensburg Fjord. For the fourth time, you can spend a whole weekend working on your own and other projects with a view of the sea. There are also super cool people, delicious food and lots of fun. [To the ticket shop TBD]()
 
 <p>WHERE:<br>Strandpavillon Solitüde<br>54°49’20.8″N 9°29’22.1″E<br>Flensburg, Germany</p>
 
 [Open Streep Map](https://www.openstreetmap.org/search?query=54.82238%2C9.48952#map=19/54.82238/9.48952) | [Google Maps](https://www.google.com/maps/place/Solitude+Restaurant/@54.8213002,9.4866206,17z/data=!4m5!3m4!1s0x47b343af6afc09e5:0x8d4742d2e8b0b4af!8m2!3d54.8207686!4d9.4882353)
 
-<p>WHEN:<br>19 - 21 September 2025, from Friday to Sunday</p>
+<p>WHEN:<br>11 - 13 September 2025, from Friday to Sunday</p>
     
 <p>COSTS:<br>You need a free ticket to participate. We would be delighted if you could support the event with a voluntary donation so that we can pay for rent and catering. You can find the donation recommendation in the <a target="_blank" href="">ticket shop TBD</a>.</p>
 
 <p>WHO:<br>The whole thing is organised by Germany's northernmost hackspace, the Chaos Computer Club Flensburg e.V.! We have been bringing and creating chaos in Flensburg since 2015 and are happy to show visitors our most beautiful beaches.</p>
 
-<p>MOTTO:<br><code>Sand in the gears (in german it is funnier)</code></p>
+<p>MOTTO:<br><code>TBD</code></p>
 
 
 <video controls>
@@ -30,43 +32,7 @@ Your browser does not support the video tag.
 <span>Video from #hotb19 🎥 <a href="https://martinmoerke.de/" target="_blank">@martinmoerke</a></span>
 
 ## Programm
-### Friday - Day 1 - 19.09.2024
-
-| When | What |
-| :-- | :-- |
-| 11:42 | Set-up |
-| 18:42 | Official Opening |
-| 19:00 | Food - oven vegetables |
-| 21:00 | TBD: Introduction 3D-Printing by pfannkuchensack |
-| 21:30 | TBD: Introduction Soldering - Rakeden Löten by Jost |
-| 02:30 | End of Day 1 (02:30 20.09.2024) |
-
-### Saturday - Day 2 - 20.09.2024
-
-| When | What |
-| :-- | :-- |
-| ~09:15 | Doors Opening Day 2 |
-| 09:30 | Breakfast |
-| 11:00 | Swimming in the Baltic Sea (DIY Session) |
-| 11:00-20:00 | Textile Printing Workshop - more Information below by Contenna |
-| 13:00 | Spezial-Jugendtreff: Jung-Hacker*innen-Tag (extra ticket needed) |
-| 14:30 | Coffe and snacks  |
-| 16:00 | Mitgliederversammlung Chaos Computer Club Flensburg e.V. |
-| 18:00 | Food - diy vegan kebab plate |
-| 19:30 | Incident Response Meetup / Q&A by ph0lk3r |
-| 21:30 | Workshop for the cutest LED earrings/pins ever (Deutsch/English) More Information Below by M |
-| 02:30 | End of Day 2 (02:30 21.09.2024) |
-
-### Sunday - Day 3 - 21.09.2024
-
-| When | What |
-| :-- | :-- |
-| ~09:15 | Doors Opening Day 3 |
-| 09:30 | Breakfast |
-| 11:00 | Swimming in the Baltic Sea (DIY Session) |
-| 12:30 | Closing & Goodbye |
-| until ready | Dismantling |
-| 16:00 | Handover location - everything must be tidy and clean |
+TBD
 
 TBD = To be decided.
 
@@ -170,9 +136,9 @@ There are two hostels in Flensburg:
 - [seemansheim flensburg](https://www.seemannsheim-flensburg.de/) (Very close to the harbour)
 - There is also a [DJH - Youth Hostel](https://www.jugendherberge.de/jugendherbergen/flensburg/)
 
-There are various hotels in Flensburg. [Booking](https://www.booking.com/searchresults.de.html?ss=Flensburg+Solit%C3%BCde%2C+Flensburg%2C+Schleswig-Holstein%2C+Deutschland&ssne=Flensburg&ssne_untouched=Flensburg&label=gen173nr-1FCAEoggI46AdIM1gEaKoBiAEBmAEHuAEZyAEM2AEB6AEB-AELiAIBqAIDuALF4PuyBsACAdICJDZhZDhmZjFjLWFjODktNDE0My05YTkzLTc1OWEyMDcxYWM3NNgCBuACAQ&sid=3842d8c8b4cadcf25c8d8d6575f077ff&aid=304142&lang=de&sb=1&src_elem=sb&src=searchresults&dest_id=10764043&dest_type=hotel&ac_position=0&ac_click_type=b&ac_langcode=de&ac_suggestion_list_length=5&search_selected=true&search_pageview_id=0fe14bb27e00011c&ac_meta=GhAzOGE0NGJjNGMzMWMwMjE3IAAoATICZGU6EUZsZW5zYnVyZyBzb2xpdMO8QABKAFAA&checkin=2025-09-19&checkout=2025-09-21&group_adults=1&no_rooms=1&group_children=0).
+There are various hotels in Flensburg. [Booking](https://www.booking.com/searchresults.en-gb.html?ss=Flensburg+Solit%C3%BCde%2C+Flensburg%2C+Schleswig-Holstein%2C+Deutschland&ssne=Flensburg&ssne_untouched=Flensburg&label=gen173nr-1FCAEoggI46AdIM1gEaKoBiAEBmAEHuAEZyAEM2AEB6AEB-AELiAIBqAIDuALF4PuyBsACAdICJDZhZDhmZjFjLWFjODktNDE0My05YTkzLTc1OWEyMDcxYWM3NNgCBuACAQ&sid=3842d8c8b4cadcf25c8d8d6575f077ff&aid=304142&lang=en-gb&sb=1&src_elem=sb&src=searchresults&dest_id=10764043&dest_type=hotel&ac_position=0&ac_click_type=b&ac_langcode=de&ac_suggestion_list_length=5&search_selected=true&search_pageview_id=0fe14bb27e00011c&ac_meta=GhAzOGE0NGJjNGMzMWMwMjE3IAAoATICZGU6EUZsZW5zYnVyZyBzb2xpdMO8QABKAFAA&checkin=2026-09-11&checkout=2026-09-13&group_adults=1&no_rooms=1&group_children=0).
 
-There are also holiday flats on e.g. [Airbnb](https://de.airbnb.com/s/Flensburg-Solit%C3%BCde-Strand--Solit%C3%BCder-Stra%C3%9Fe--Flensburg--Deutschland/homes?tab_id=home_tab&refinement_paths%5B%5D=%2Fhomes&flexible_trip_lengths%5B%5D=one_week&monthly_start_date=2025-07-01&monthly_length=3&monthly_end_date=2025-10-01&price_filter_input_type=0&channel=EXPLORE&query=Flensburg%20Solit%C3%BCde%20Strand%2C%20Flensburg%2C%20Deutschland&place_id=ChIJ3ZHxQrhDs0cR-aOMByp4ZM4&location_bb=QltIo0EXwhpCW0XgQRe3DQ%3D%3D&date_picker_type=calendar&checkin=2025-09-19&checkout=2025-09-21&adults=1&source=structured_search_input_header&search_type=autocomplete_click). 
+There are also holiday flats on e.g. [Airbnb](https://www.airbnb.co.uk/s/Flensburg-Solit%C3%BCde-Strand--Solit%C3%BCder-Stra%C3%9Fe--Flensburg--Deutschland/homes?tab_id=home_tab&refinement_paths%5B%5D=%2Fhomes&flexible_trip_lengths%5B%5D=one_week&monthly_start_date=2025-07-01&monthly_length=3&monthly_end_date=2025-10-01&price_filter_input_type=0&channel=EXPLORE&query=Flensburg%20Solit%C3%BCde%20Strand%2C%20Flensburg%2C%20Deutschland&place_id=ChIJ3ZHxQrhDs0cR-aOMByp4ZM4&location_bb=QltIo0EXwhpCW0XgQRe3DQ%3D%3D&date_picker_type=calendar&checkin=2026-09-11&checkout=2026-09-13&adults=1&source=structured_search_input_header&currency=EUR). 
 
 It is also possible to rent holiday flats via the [Genossenschaftlichen Gäste Wohnung Ring](https://www.gaeworing.de/gaestewohnungen/flensburg/wohnungen.html). If you are not a member of one of these co-operatives, please send us an e-mail.
 
@@ -201,9 +167,10 @@ There is no separate quiet room. The entire event takes place in a long, curved 
 The Danish-German region Toki Pona society works to promote the Toki Pona movement. Our annual meeting is co-located with Hacks on the Beach. We invite newcomers to join.
 
 ### Feedback
-Do you have feedback? We have a [Pad](https://md.ctfl.space/hotb25_feedback)
+Do you have feedback? We have a [Pad](https://md.c3fl.de/hotb26_feedback)
 
 ## Contact
+
 * E-mail: hotb@chaostreff-flensburg.de
 * Public matrix space: [#hoth-public:chaos.now](https://matrix.to/#/#hoth-public:chaos.jetzt)
 * Mastodon: [@chaos_fl@chaos.social](https://chaos.social/@chaos_fl)
