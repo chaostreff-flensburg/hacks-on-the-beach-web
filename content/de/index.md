@@ -39,28 +39,6 @@ TBD = In Planung.
 
 Während der gesamten Veranstaltung stehen eine 3D-Druckstation und eine Lötstation zur Verfügung.
 
-####  Workshop for the cutest LED earrings/pins ever (Deutsch/English)
-
-So you’re camping on a mysterious island but forgot your torch light? Just put on your cute blinking earrings and they’ll light you the way to the next party place!
-
-Accessible for all ages, beginners and designers. We want to be inspired by your ideas and designs!
-
-We’ll do:
-- soldering (that’s hot and can burn)
-- assembling (tiny stuff that should not be eaten)
-Small kids should bring someone to help them be safe.
-
-Donation/5Euro
-
-[Link to Image](https://content.fri3d.be/media/fri3dcamp2024/submissions/N3PNZD/C77095D3-95E5-4121-94EA-CAA495390F85_mIJXC3S.jpeg)
-
-#### Textile Druckwerkstatt	QKG7K
-Dir fehlt ein angemessenes Andenken an das Hacks on the beach? So was wie ein Shirt?
-Warum nicht selbst kreieren?
-In diesem Workshop bauen wir Motive mit flachen Klemmbausteinen und drucken diese dann per Hochdruckverfahren (wie Linoldruck) Wahlweise auf Papier oder Textilien.
-Textilien bitte selbst mitbringen, am besten eignet sich 100% Baumwolle.
-Alles weitere kann gestellt werden.
-
 ## FAQ
 
 Du hast noch mehr Fragen? Schreibe uns gerne eine E-Mail an hotb@chaostreff-flensburg.de

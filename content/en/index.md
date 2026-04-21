@@ -40,28 +40,6 @@ TBD = To be decided.
 
 A 3D printing station and a soldering station will be available throughout the event.
 
-####  Workshop for the cutest LED earrings/pins ever (Deutsch/English)
-
-So you’re camping on a mysterious island but forgot your torch light? Just put on your cute blinking earrings and they’ll light you the way to the next party place!
-
-Accessible for all ages, beginners and designers. We want to be inspired by your ideas and designs!
-
-We’ll do:
-- soldering (that’s hot and can burn)
-- assembling (tiny stuff that should not be eaten)
-Small kids should bring someone to help them be safe.
-
-Donation/5Euro
-
-[Link to Image](https://content.fri3d.be/media/fri3dcamp2024/submissions/N3PNZD/C77095D3-95E5-4121-94EA-CAA495390F85_mIJXC3S.jpeg)
-
-#### Textile Printing Workshop
-You're missing a nice souvenir from the event to remember the Hacks on the Beach? Something like a shirt?
-How about creating that yourself?
-In this Workshop we create motives out of flat building bricks and print them either on textiles or paper (just like lino printing).
-Please bring textiles yourself, 100% is best suited for the purpose.
-Anything else is ready for you.
-
 ## FAQ
 
 Do you have any more questions? Please send us an e-mail to hotb@chaostreff-flensburg.de
