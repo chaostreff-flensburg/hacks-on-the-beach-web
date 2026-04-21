@@ -9,7 +9,7 @@ url: /
 
 Save the Date: 11.09 (Freitag) - 13.09.2026.
 
-Hacks on the Beach ist ein kleines Hack- & Frickelfestival direkt an der Flensburger Förde. Zum vierten Mal kannst du ein ganzes Wochenende mit Meerblick an deinen und anderen Projekten arbeiten. Dazu gibt es super coole Leute, leckeres Essen und jede Menge Spaß. [Zum Ticketshop TBD]()
+Hacks on the Beach ist ein kleines Hack- & Frickelfestival direkt an der Flensburger Förde. Zum vierten Mal kannst du ein ganzes Wochenende mit Meerblick an deinen und anderen Projekten arbeiten. Dazu gibt es super coole Leute, leckeres Essen und jede Menge Spaß. [Zum Ticketshop](https://tickets.c3fl.de/c3fle/hotb-26/)
 
 <p>WO:<br>Strandpavillon Solitüde<br>54°49’20.8″N 9°29’22.1″E<br>Flensburg</p>
 
@@ -19,7 +19,7 @@ Hacks on the Beach ist ein kleines Hack- & Frickelfestival direkt an der Flensbu
 
 <p>MOTTO:<br><code>TBD</code></p>
 
-<p>KOSTEN:<br>Für die Teilnahme benötigt ihr ein kostenloses Ticket. Damit wir Miete und Verpflegung bezahlen können, freuen wir uns, wenn ihr die Veranstaltung mit einer freiwilligen Spende unterstützt. Die Spendenempfehlung findet ihr im <a target="_blank" href="">Ticketshop TBD</a>.</p>
+<p>KOSTEN:<br>Für die Teilnahme benötigt ihr ein kostenloses Ticket. Damit wir Miete und Verpflegung bezahlen können, freuen wir uns, wenn ihr die Veranstaltung mit einer freiwilligen Spende unterstützt. Die Spendenempfehlung findet ihr im <a target="_blank" href="https://tickets.c3fl.de/c3fle/hotb-26/">Ticketshop</a>.</p>
 
 <p>WER:<br>Organisiert wird das Ganze vom nördlichsten Hackspace Deutschlands, dem Chaos Computer Club Flensburg e.V.! Seit 2015 bringen und schaffen wir Chaos in Flensburg und zeigen den Besucher*innen gerne unsere schönsten Strände.</p>
 

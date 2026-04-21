@@ -3,7 +3,7 @@ export default (props) => (
     {props.lang === "en" ? (
       <>
         <a
-          href="https://tickets.c3fl.de/c3fle/hotb-25/"
+          href="https://tickets.c3fl.de/c3fle/hotb-26/"
           class="nav-link"
           target="_blank"
         >
@@ -16,7 +16,7 @@ export default (props) => (
     ) : (
       <>
         <a
-          href="https://tickets.c3fl.de/c3fle/hotb-25/"
+          href="https://tickets.c3fl.de/c3fle/hotb-26/"
           class="nav-link"
           target="_blank"
         >

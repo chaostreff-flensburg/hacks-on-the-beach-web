@@ -9,7 +9,7 @@ url: /
 
 Save the Date: 11.09 (friday) - 13.09.2026.
 
-Hacks on the Beach is a small hack & frickel festival right on the Flensburg Fjord. For the fourth time, you can spend a whole weekend working on your own and other projects with a view of the sea. There are also super cool people, delicious food and lots of fun. [To the ticket shop TBD]()
+Hacks on the Beach is a small hack & frickel festival right on the Flensburg Fjord. For the fourth time, you can spend a whole weekend working on your own and other projects with a view of the sea. There are also super cool people, delicious food and lots of fun. [To the ticket shop](https://tickets.c3fl.de/c3fle/hotb-26/)
 
 <p>WHERE:<br>Strandpavillon Solitüde<br>54°49’20.8″N 9°29’22.1″E<br>Flensburg, Germany</p>
 
@@ -17,7 +17,7 @@ Hacks on the Beach is a small hack & frickel festival right on the Flensburg Fjo
 
 <p>WHEN:<br>11 - 13 September 2025, from Friday to Sunday</p>
     
-<p>COSTS:<br>You need a free ticket to participate. We would be delighted if you could support the event with a voluntary donation so that we can pay for rent and catering. You can find the donation recommendation in the <a target="_blank" href="">ticket shop TBD</a>.</p>
+<p>COSTS:<br>You need a free ticket to participate. We would be delighted if you could support the event with a voluntary donation so that we can pay for rent and catering. You can find the donation recommendation in the <a target="_blank" href="https://tickets.c3fl.de/c3fle/hotb-26/">ticket shop</a>.</p>
 
 <p>WHO:<br>The whole thing is organised by Germany's northernmost hackspace, the Chaos Computer Club Flensburg e.V.! We have been bringing and creating chaos in Flensburg since 2015 and are happy to show visitors our most beautiful beaches.</p>
 
