@@ -17,7 +17,7 @@ Hacks on the Beach ist ein kleines Hack- & Frickelfestival direkt an der Flensbu
 
 <p>WANN:<br>11. – 13.09.2026, Von Freitag bis Sonntag</p>
 
-<p>MOTTO:<br><code>TBD</code></p>
+<p>MOTTO:<br><code>Schwammintelligenz</code></p>
 
 <p>KOSTEN:<br>Für die Teilnahme benötigt ihr ein kostenloses Ticket. Damit wir Miete und Verpflegung bezahlen können, freuen wir uns, wenn ihr die Veranstaltung mit einer freiwilligen Spende unterstützt. Die Spendenempfehlung findet ihr im <a target="_blank" href="https://tickets.c3fl.de/c3fle/hotb-26/">Ticketshop</a>.</p>
 
