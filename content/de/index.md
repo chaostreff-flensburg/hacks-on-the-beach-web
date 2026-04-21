@@ -31,7 +31,31 @@ Your browser does not support the video tag.
 <span>Video vom #hotb19 🎥 <a href="https://martinmoerke.de/" target="_blank">@martinmoerke</a></span>
 
 ## Programm
-TBD
+### Friday - Day 1 - 11.09.2026
+
+| When | What |
+| :-- | :-- |
+| 10:00 | Official Opening |
+| 18:00 | ??? |
+| 02:30 | Profit!!! / End of Day 1 (02:30 12.09.2026) |
+
+### Saturday - Day 2 - 12.09.2026
+
+| When | What |
+| :-- | :-- |
+| ~09:15 | Doors Opening Day 2 |
+| 18:00 | ??? |
+| 02:30 | Profit!!! / End of Day 2 (02:30 13.09.2026) |
+
+### Sunday - Day 3 - 13.09.2026
+
+| When | What |
+| :-- | :-- |
+| ~09:15 | Doors Opening Day 3 |
+| 10:00 | ??? |
+| 13:00 | Profit!!! / Closing & Goodbye |
+| until ready | Dismantling |
+| 16:00 | Hand over location - everything must be tidy and clean |
 
 TBD = In Planung.
 
