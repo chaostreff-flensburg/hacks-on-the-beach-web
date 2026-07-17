@@ -15,7 +15,7 @@ Hacks on the Beach is a small hack & frickel festival right on the Flensburg Fjo
 
 [Open Streep Map](https://www.openstreetmap.org/search?query=54.82238%2C9.48952#map=19/54.82238/9.48952) | [Google Maps](https://www.google.com/maps/place/Solitude+Restaurant/@54.8213002,9.4866206,17z/data=!4m5!3m4!1s0x47b343af6afc09e5:0x8d4742d2e8b0b4af!8m2!3d54.8207686!4d9.4882353)
 
-<p>WHEN:<br>11 - 13 September 2025, from Friday to Sunday</p>
+<p>WHEN:<br>11 - 13 September 2026, from Friday to Sunday</p>
     
 <p>COSTS:<br>You need a free ticket to participate. We would be delighted if you could support the event with a voluntary donation so that we can pay for rent and catering. You can find the donation recommendation in the <a target="_blank" href="https://tickets.c3fl.de/c3fle/hotb-26/">ticket shop</a>.</p>
 
@@ -140,7 +140,7 @@ There are two hostels in Flensburg:
 
 There are various hotels in Flensburg. [Booking](https://www.booking.com/searchresults.en-gb.html?ss=Flensburg+Solit%C3%BCde%2C+Flensburg%2C+Schleswig-Holstein%2C+Deutschland&ssne=Flensburg&ssne_untouched=Flensburg&label=gen173nr-1FCAEoggI46AdIM1gEaKoBiAEBmAEHuAEZyAEM2AEB6AEB-AELiAIBqAIDuALF4PuyBsACAdICJDZhZDhmZjFjLWFjODktNDE0My05YTkzLTc1OWEyMDcxYWM3NNgCBuACAQ&sid=3842d8c8b4cadcf25c8d8d6575f077ff&aid=304142&lang=en-gb&sb=1&src_elem=sb&src=searchresults&dest_id=10764043&dest_type=hotel&ac_position=0&ac_click_type=b&ac_langcode=de&ac_suggestion_list_length=5&search_selected=true&search_pageview_id=0fe14bb27e00011c&ac_meta=GhAzOGE0NGJjNGMzMWMwMjE3IAAoATICZGU6EUZsZW5zYnVyZyBzb2xpdMO8QABKAFAA&checkin=2026-09-11&checkout=2026-09-13&group_adults=1&no_rooms=1&group_children=0).
 
-There are also holiday flats on e.g. [Airbnb](https://www.airbnb.co.uk/s/Flensburg-Solit%C3%BCde-Strand--Solit%C3%BCder-Stra%C3%9Fe--Flensburg--Deutschland/homes?tab_id=home_tab&refinement_paths%5B%5D=%2Fhomes&flexible_trip_lengths%5B%5D=one_week&monthly_start_date=2025-07-01&monthly_length=3&monthly_end_date=2025-10-01&price_filter_input_type=0&channel=EXPLORE&query=Flensburg%20Solit%C3%BCde%20Strand%2C%20Flensburg%2C%20Deutschland&place_id=ChIJ3ZHxQrhDs0cR-aOMByp4ZM4&location_bb=QltIo0EXwhpCW0XgQRe3DQ%3D%3D&date_picker_type=calendar&checkin=2026-09-11&checkout=2026-09-13&adults=1&source=structured_search_input_header&currency=EUR). 
+There are also holiday flats on e.g. [Airbnb](https://www.airbnb.co.uk/s/Flensburg-Solit%C3%BCde-Strand--Solit%C3%BCder-Stra%C3%9Fe--Flensburg--Deutschland/homes?tab_id=home_tab&refinement_paths%5B%5D=%2Fhomes&flexible_trip_lengths%5B%5D=one_week&monthly_start_date=2026-07-01&monthly_length=3&monthly_end_date=2026-10-01&price_filter_input_type=0&channel=EXPLORE&query=Flensburg%20Solit%C3%BCde%20Strand%2C%20Flensburg%2C%20Deutschland&place_id=ChIJ3ZHxQrhDs0cR-aOMByp4ZM4&location_bb=QltIo0EXwhpCW0XgQRe3DQ%3D%3D&date_picker_type=calendar&checkin=2026-09-11&checkout=2026-09-13&adults=1&source=structured_search_input_header&currency=EUR). 
 
 It is also possible to rent holiday flats via the [Genossenschaftlichen Gäste Wohnung Ring](https://www.gaeworing.de/gaestewohnungen/flensburg/wohnungen.html). If you are not a member of one of these co-operatives, please send us an e-mail.
 
