@@ -21,7 +21,7 @@ Hacks on the Beach is a small hack & frickel festival right on the Flensburg Fjo
 
 <p>WHO:<br>The whole thing is organised by Germany's northernmost hackspace, the Chaos Computer Club Flensburg e.V.! We have been bringing and creating chaos in Flensburg since 2015 and are happy to show visitors our most beautiful beaches.</p>
 
-<p>MOTTO:<br><code>Schwammintelligenz</code></p>
+<p>MOTTO:<br><code>Schwammintelligenz</code><br><img src="../assets/schwammhirn.svg" alt="Sponge Brain" width="200"/></p>
 
 
 <video controls>
