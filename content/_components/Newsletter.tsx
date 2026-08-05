@@ -3,7 +3,7 @@ export default () => (
     <h2 id="newsletter-anmelden">Newsletter</h2>
     <form
       method="post"
-      action="https://newsletter.chaostreff-flensburg.de/subscription/form"
+      action="https://newsletter.c3fl.de/subscription/form"
       class=""
     >
       <input
