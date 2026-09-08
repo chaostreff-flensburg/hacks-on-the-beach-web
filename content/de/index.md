@@ -41,6 +41,9 @@ Also bringe deine Ideen gerne ein (gerne per E-Mail an hotb@chaostreff-flensburg
 | When | What |
 | :-- | :-- |
 | 10:00 | Official Opening |
+| 13:30 | Swimming in the Baltic Sea (DIY Session) |
+| 14:30 | Kaffe und Snacks |
+| 19:00 | Food - oven vegetables |
 | 02:30 | End of Day 1 (02:30 12.09.2026) |
 
 ### Saturday - Day 2 - 12.09.2026
@@ -48,6 +51,11 @@ Also bringe deine Ideen gerne ein (gerne per E-Mail an hotb@chaostreff-flensburg
 | When | What |
 | :-- | :-- |
 | ~09:15 | Doors Opening Day 2 |
+| 09:30 | Breakfast |
+| 11:00 | Swimming in the Baltic Sea (DIY Session) |
+| 13:00 | Spezial-Jugendtreff: Jung-Hacker*innen-Tag (Extra Anmeldung erforderlich) |
+| 14:30 | Kaffe und Snacks |
+| 18:00 | Food - diy vegan kebab plate |
 | 02:30 | End of Day 2 (02:30 13.09.2026) |
 
 ### Sunday - Day 3 - 13.09.2026
@@ -55,6 +63,8 @@ Also bringe deine Ideen gerne ein (gerne per E-Mail an hotb@chaostreff-flensburg
 | When | What |
 | :-- | :-- |
 | ~09:15 | Doors Opening Day 3 |
+| 09:30 | Breakfast |
+| 11:00 | Swimming in the Baltic Sea (DIY Session) |
 | 13:00 | Closing & Goodbye |
 | until ready | Dismantling |
 | 16:00 | Hand over location - everything must be tidy and clean |
