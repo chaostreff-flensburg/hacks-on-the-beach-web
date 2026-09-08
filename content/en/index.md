@@ -32,33 +32,33 @@ Your browser does not support the video tag.
 <span>Video from #hotb19 🎥 <a href="https://martinmoerke.de/" target="_blank">@martinmoerke</a></span>
 
 ## Program
+
+There is a lot of room in the time table for workshops, talks and other cool things!
+
+So feel free to contribute (just send us an e-mail to hotb@chaostreff-flensburg.de and we add it to our time table below)!
+
 ### Friday - Day 1 - 11.09.2026
 
 | When | What |
 | :-- | :-- |
 | 10:00 | Official Opening |
-| 18:00 | ??? |
-| 02:30 | Profit!!! / End of Day 1 (02:30 12.09.2026) |
+| 02:30 | End of Day 1 (02:30 12.09.2026) |
 
 ### Saturday - Day 2 - 12.09.2026
 
 | When | What |
 | :-- | :-- |
 | ~09:15 | Doors Opening Day 2 |
-| 18:00 | ??? |
-| 02:30 | Profit!!! / End of Day 2 (02:30 13.09.2026) |
+| 02:30 | End of Day 2 (02:30 13.09.2026) |
 
 ### Sunday - Day 3 - 13.09.2026
 
 | When | What |
 | :-- | :-- |
 | ~09:15 | Doors Opening Day 3 |
-| 10:00 | ??? |
-| 13:00 | Profit!!! / Closing & Goodbye |
+| 13:00 | Closing & Goodbye |
 | until ready | Dismantling |
 | 16:00 | Hand over location - everything must be tidy and clean |
-
-TBD = To be decided.
 
 ### All days
 
@@ -77,7 +77,7 @@ You should not come if you believe in conspiracy myths or do not adhere to the [
 ### Communication during the event
 
 A public Matrix room is available for the participants of this event. Matrix is a free and public communication platform. 
-You can find access to the Matrix room here: [#hoth-public:chaos.jetzt](https://matrix.to/#/#hoth-phttps://matrix.to/#/#hoth-public:chaos.jetztublic:chaos.jetzt)
+You can find access to the Matrix room here: [#hoth-public:chaos.jetzt](https://matrix.to/#/#hoth-public:chaos.jetzt)
 You can find more information about Matrix on the [Element Website](https://element.io/).
 
 ### Where is the event taking place?

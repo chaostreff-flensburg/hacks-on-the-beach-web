@@ -33,31 +33,31 @@ Your browser does not support the video tag.
 ## Programm
 ### Friday - Day 1 - 11.09.2026
 
+Es ist noch jede Menge Platz im Programm für Workshops, Vorträge oder andere coole Dinge!
+
+Also bringe deine Ideen gerne ein (gerne per E-Mail an hotb@chaostreff-flensburg.de ankündigen, wir tragen das dann hier ein)!
+
+
 | When | What |
 | :-- | :-- |
 | 10:00 | Official Opening |
-| 18:00 | ??? |
-| 02:30 | Profit!!! / End of Day 1 (02:30 12.09.2026) |
+| 02:30 | End of Day 1 (02:30 12.09.2026) |
 
 ### Saturday - Day 2 - 12.09.2026
 
 | When | What |
 | :-- | :-- |
 | ~09:15 | Doors Opening Day 2 |
-| 18:00 | ??? |
-| 02:30 | Profit!!! / End of Day 2 (02:30 13.09.2026) |
+| 02:30 | End of Day 2 (02:30 13.09.2026) |
 
 ### Sunday - Day 3 - 13.09.2026
 
 | When | What |
 | :-- | :-- |
 | ~09:15 | Doors Opening Day 3 |
-| 10:00 | ??? |
-| 13:00 | Profit!!! / Closing & Goodbye |
+| 13:00 | Closing & Goodbye |
 | until ready | Dismantling |
 | 16:00 | Hand over location - everything must be tidy and clean |
-
-TBD = In Planung.
 
 ### All days
 
@@ -76,7 +76,7 @@ Du solltest nicht kommen, wenn du an Verschwörungsmythen glaubst oder dich nich
 ### Kommunikation während der Veranstaltung
 
 Für die Teilnehmer\*innen dieser Veranstaltung steht ein öffentlicher Matrix-Raum zur Verfügung. Matrix ist eine kostenlose und öffentliche Kommunikationsplattform. 
-Den Zugang zum Matrix Raum findest du hier: [#hoth-public:chaos.jetzt](https://matrix.to/#/#hoth-phttps://matrix.to/#/#hoth-public:chaos.jetztublic:chaos.jetzt)
+Den Zugang zum Matrix Raum findest du hier: [#hoth-public:chaos.jetzt](https://matrix.to/#/#hoth-public:chaos.jetzt)
 Mehr Informationen zu Matrix findest du auf der [Element Seite](https://element.io/).
 
 ### Wo findet das Event statt?
