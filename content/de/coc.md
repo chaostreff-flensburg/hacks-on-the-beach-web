@@ -61,7 +61,7 @@ Bei Unklarheiten, was eine Formulierung bedeutet, ist sie im Sinne des Gesamtdok
 
 Wenn du oder jemand anderes sich unsicher oder unwillkommen fühlt, melde dich bitte so schnell wie möglich bei einer der Main-Orga-Personen oder dem Vorstand:
 
-* scammo / Samuel Brinkmann / samuel@chaostreff-flensburg.de / Matrix: @scammo:fairydust.space
+* Jost Salathé / jostsalathe@chaostreff-flensburg.de / Matrix: @jostsalathe:matrix.org / Mobile: +49 177 9172 865
 
 ## Quelle
 
