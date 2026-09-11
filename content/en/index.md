@@ -56,6 +56,7 @@ So feel free to contribute (just send us an e-mail to hotb@chaostreff-flensburg.
 | 11:00 | Swimming in the Baltic Sea (DIY Session) |
 | 13:00 | Special-Jugendtreff: Jung-Hacker*innen-Tag (extra ticket needed) |
 | 14:30 | Coffe and snacks |
+| 15:00 | Vortrag "50 Millisekunden" |
 | 18:00 | Food - diy vegan kebab plate |
 | 02:30 | End of Day 2 (02:30 13.09.2026) |
 
