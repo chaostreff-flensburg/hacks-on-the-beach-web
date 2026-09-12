@@ -57,6 +57,7 @@ Also bringe deine Ideen gerne ein (gerne per E-Mail an hotb@chaostreff-flensburg
 | 14:00 | OpenStreetComplete Spaziergang (Treffen vor der Tür) |
 | 14:30 | Kaffe und Snacks |
 | 15:00 | Vortrag "50 Millisekunden" |
+| 16:30 | Workshop (6-9 Leute) Bessere Kommunikation (aus Fehlern lernen, statt sie zu wiederholen) |
 | 18:00 | Food - diy vegan kebab plate |
 | 02:30 | End of Day 2 (02:30 13.09.2026) |
 
