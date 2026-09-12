@@ -110,11 +110,11 @@ If you want to eat at other times, you will have to cater for yourself.
 
 ### Do you need more volunteers?
 
-If you would like to help us with the workshops or with the set-up/organisation, simply send us an email to hotb@chaostreff-flensburg.de. The event depends on the support of volunteers.
+If you would like to help us with the workshops or with the set-up/organisation, simply send us an email to [hotb@chaostreff-flensburg.de](mailto:hotb@chaostreff-flensburg.de). The event depends on the support of volunteers.
 
 ### Can I come along to simply meet new people or work on my own project?
 
-By all means! That's exactly what our events are all about: tinkering, crafting, working on your own projects that you don't have time for at home and gathering new inspiration in the process. Another point is to make new contacts and get to know people. If you would like to bring something bigger than just your laptop and Arduino (etc.), please send us a short email in advance: hotb@chaostreff-flensburg.de.
+By all means! That's exactly what our events are all about: tinkering, crafting, working on your own projects that you don't have time for at home and gathering new inspiration in the process. Another point is to make new contacts and get to know people. If you would like to bring something bigger than just your laptop and Arduino (etc.), please send us a short email in advance: [hotb@chaostreff-flensburg.de](mailto:hotb@chaostreff-flensburg.de).
 
 ### How much does a ticket cost?
 

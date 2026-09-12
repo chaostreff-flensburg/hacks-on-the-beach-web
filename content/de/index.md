@@ -109,10 +109,10 @@ Wenn du zu anderen Zeiten essen möchtest, musst du dich selbst versorgen.
 
 ### Braucht ihr noch Freiwillige?
 
-Wenn du uns bei den Workshops oder bei Aufbau/Organisation helfen möchtest, schreibe uns einfach eine E-Mail an hotb@chaostreff-flensburg.de. Die Veranstaltung lebt von der Unterstützung durch Freiwillige.
+Wenn du uns bei den Workshops oder bei Aufbau/Organisation helfen möchtest, schreibe uns einfach eine E-Mail an [hotb@chaostreff-flensburg.de](mailto:hotb@chaostreff-flensburg.de). Die Veranstaltung lebt von der Unterstützung durch Freiwillige.
 
 ### Kann ich vorbeikommen um einfach neue Menschen kennen zu lernen oder an meinem eigenen Projekt zu arbeiten?
-Auf jeden Fall! Das ist genau das, was unsere Veranstaltungen ausmacht: Tüfteln, Basteln, an eigenen Projekten arbeiten, für die man zu Hause keine Zeit hat, und dabei neue Inspirationen sammeln. Ein weiterer Punkt ist, neue Kontakte zu knüpfen und Leute kennenzulernen. Wenn du etwas Größeres als z.B. nur deinen Laptop und Arduino (etc.) mitbringen möchtest, schreibe uns bitte vorher eine kurze E-Mail: hotb@chaostreff-flensburg.de.
+Auf jeden Fall! Das ist genau das, was unsere Veranstaltungen ausmacht: Tüfteln, Basteln, an eigenen Projekten arbeiten, für die man zu Hause keine Zeit hat, und dabei neue Inspirationen sammeln. Ein weiterer Punkt ist, neue Kontakte zu knüpfen und Leute kennenzulernen. Wenn du etwas Größeres als z.B. nur deinen Laptop und Arduino (etc.) mitbringen möchtest, schreibe uns bitte vorher eine kurze E-Mail: [hotb@chaostreff-flensburg.de](mailto:hotb@chaostreff-flensburg.de).
 
 ### Was kostet ein Ticket?
 Die Tickets sind kostenlos, aber du kannst einen freiwilligen Betrag zu dem Event beitragen. Das Geld wird vom Chaos Computer Club Flensburg e.V. (gemeinnützig) verwaltet.
