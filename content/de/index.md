@@ -97,7 +97,7 @@ Mehr Informationen zu Matrix findest du auf der [Element Seite](https://element.
 Strandpavillon Solitüde, Flensburg, Germany
 54°49’20.8″N 9°29’22.1″E
 
-[Open Streep Map](https://www.openstreetmap.org/search?query=54.82238%2C9.48952#map=19/54.82238/9.48952) | [Google Maps](https://www.google.com/maps/place/Solitude+Restaurant/@54.8213002,9.4866206,17z/data=!4m5!3m4!1s0x47b343af6afc09e5:0x8d4742d2e8b0b4af!8m2!3d54.8207686!4d9.4882353)
+[Open Streep Map](https://www.openstreetmap.org/search?query=54.82238%2C9.48952#map=19/54.82238/9.48952) | [Google Maps](https://www.google.com/maps/place/Solitude+Restaurant/@54.8213002,9.4866206,17z/data=!4m5!3m4!1s0x47b343af6afc09e5:0x8d4742d2e8b0b4af!8m2!3d54.8207686!4d9.4882353) | [Apple Maps](https://maps.apple.com/place?address=Solit%C3%BCde%2017,%2024944%20Flensburg,%20Germany&coordinate=54.822432,9.489470&name=Solit%C3%BCde%2017&map=explore)
 
 ### Essen
 
