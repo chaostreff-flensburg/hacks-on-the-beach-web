@@ -102,7 +102,7 @@ Strandpavillon Solitüde, Flensburg, Germany
 
 ### Food
 
-Dinner will be provided on Friday and Saturday. The food will be vegetarian and vegan. There will also be gluten-free food. What exactly will be available and when is still being planned.
+Breakfast will be provided on Friday, Saturday and Sunday and Dinner on Friday and Saturday. The food will be vegetarian and vegan. There will also be gluten-free food. What exactly will be available and when is still being planned.
 
 During the event there will also be a station where you can make your own sandwich toast.
 

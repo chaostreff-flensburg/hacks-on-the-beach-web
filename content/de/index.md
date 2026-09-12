@@ -101,7 +101,7 @@ Strandpavillon Solitüde, Flensburg, Germany
 
 ### Essen
 
-Für das Abendessen am Freitag und Samstag ist gesorgt. Das Essen wird vegetarisch und vegan sein. Es wird auch glutenfreies Essen geben. Was es wann genau geben wird, wird noch geplant.
+Frühstück steht Freitag, Samstag und Sonntag bereit und Abendessen ebenso am Freitag und Samstag. Das Essen wird vegetarisch und vegan sein. Es wird auch glutenfreies Essen geben. Was es wann genau geben wird, wird noch geplant.
 
 Während der Veranstaltung wird es auch eine Station geben wo du dir selber ein Sandwich-Toast machen kannst.
 
