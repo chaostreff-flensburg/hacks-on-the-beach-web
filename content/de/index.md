@@ -13,7 +13,7 @@ Hacks on the Beach ist ein kleines Hack- & Frickelfestival direkt an der Flensbu
 
 <p>WO:<br>Strandpavillon Solitüde<br>54°49’20.8″N 9°29’22.1″E<br>Flensburg</p>
 
-[Open Streep Map](https://www.openstreetmap.org/search?query=54.82238%2C9.48952#map=19/54.82238/9.48952) | [Google Maps](https://www.google.com/maps/place/Solitude+Restaurant/@54.8213002,9.4866206,17z/data=!4m5!3m4!1s0x47b343af6afc09e5:0x8d4742d2e8b0b4af!8m2!3d54.8207686!4d9.4882353)
+[Open Streep Map](https://www.openstreetmap.org/search?query=54.82238%2C9.48952#map=19/54.82238/9.48952) | [Google Maps](https://www.google.com/maps/place/Solitude+Restaurant/@54.8213002,9.4866206,17z/data=!4m5!3m4!1s0x47b343af6afc09e5:0x8d4742d2e8b0b4af!8m2!3d54.8207686!4d9.4882353) | [Apple Maps](https://maps.apple.com/place?address=Solit%C3%BCde%2017,%2024944%20Flensburg,%20Germany&coordinate=54.822432,9.489470&name=Solit%C3%BCde%2017&map=explore)
 
 <p>WANN:<br>11. – 13.09.2026, Von Freitag bis Sonntag</p>
 
@@ -78,7 +78,7 @@ Während der gesamten Veranstaltung stehen eine 3D-Druckstation und eine Lötsta
 
 ## FAQ
 
-Du hast noch mehr Fragen? Schreibe uns gerne eine E-Mail an hotb@chaostreff-flensburg.de
+Du hast noch mehr Fragen? Schreibe uns gerne eine E-Mail an [hotb@chaostreff-flensburg.de](mailto:hotb@chaostreff-flensburg.de)
 
 ### An wen richtet sich die Veranstaltung?
 Die Veranstaltung richtet sich an alle, die sich für Basteln, Programmieren, Hacken, Tüfteln, Löten, 3D-Drucken, Chaos und Netzpolitik interessieren oder begeistern können. Du musst kein Experte\*in sein oder Vorkenntnisse haben, um an dieser Veranstaltung teilzunehmen.
@@ -97,11 +97,11 @@ Mehr Informationen zu Matrix findest du auf der [Element Seite](https://element.
 Strandpavillon Solitüde, Flensburg, Germany
 54°49’20.8″N 9°29’22.1″E
 
-[Open Streep Map](https://www.openstreetmap.org/search?query=54.82238%2C9.48952#map=19/54.82238/9.48952) | [Google Maps](https://www.google.com/maps/place/Solitude+Restaurant/@54.8213002,9.4866206,17z/data=!4m5!3m4!1s0x47b343af6afc09e5:0x8d4742d2e8b0b4af!8m2!3d54.8207686!4d9.4882353)
+[Open Streep Map](https://www.openstreetmap.org/search?query=54.82238%2C9.48952#map=19/54.82238/9.48952) | [Google Maps](https://www.google.com/maps/place/Solitude+Restaurant/@54.8213002,9.4866206,17z/data=!4m5!3m4!1s0x47b343af6afc09e5:0x8d4742d2e8b0b4af!8m2!3d54.8207686!4d9.4882353) | [Apple Maps](https://maps.apple.com/place?address=Solit%C3%BCde%2017,%2024944%20Flensburg,%20Germany&coordinate=54.822432,9.489470&name=Solit%C3%BCde%2017&map=explore)
 
 ### Essen
 
-Für das Abendessen am Freitag und Samstag ist gesorgt. Das Essen wird vegetarisch und vegan sein. Es wird auch glutenfreies Essen geben. Was es wann genau geben wird, wird noch geplant.
+Frühstück steht Freitag, Samstag und Sonntag bereit und Abendessen ebenso am Freitag und Samstag. Das Essen wird vegetarisch und vegan sein. Es wird auch glutenfreies Essen geben. Was es wann genau geben wird, wird noch geplant.
 
 Während der Veranstaltung wird es auch eine Station geben wo du dir selber ein Sandwich-Toast machen kannst.
 
@@ -109,10 +109,10 @@ Wenn du zu anderen Zeiten essen möchtest, musst du dich selbst versorgen.
 
 ### Braucht ihr noch Freiwillige?
 
-Wenn du uns bei den Workshops oder bei Aufbau/Organisation helfen möchtest, schreibe uns einfach eine E-Mail an hotb@chaostreff-flensburg.de. Die Veranstaltung lebt von der Unterstützung durch Freiwillige.
+Wenn du uns bei den Workshops oder bei Aufbau/Organisation helfen möchtest, schreibe uns einfach eine E-Mail an [hotb@chaostreff-flensburg.de](mailto:hotb@chaostreff-flensburg.de). Die Veranstaltung lebt von der Unterstützung durch Freiwillige.
 
 ### Kann ich vorbeikommen um einfach neue Menschen kennen zu lernen oder an meinem eigenen Projekt zu arbeiten?
-Auf jeden Fall! Das ist genau das, was unsere Veranstaltungen ausmacht: Tüfteln, Basteln, an eigenen Projekten arbeiten, für die man zu Hause keine Zeit hat, und dabei neue Inspirationen sammeln. Ein weiterer Punkt ist, neue Kontakte zu knüpfen und Leute kennenzulernen. Wenn du etwas Größeres als z.B. nur deinen Laptop und Arduino (etc.) mitbringen möchtest, schreibe uns bitte vorher eine kurze E-Mail: hotb@chaostreff-flensburg.de.
+Auf jeden Fall! Das ist genau das, was unsere Veranstaltungen ausmacht: Tüfteln, Basteln, an eigenen Projekten arbeiten, für die man zu Hause keine Zeit hat, und dabei neue Inspirationen sammeln. Ein weiterer Punkt ist, neue Kontakte zu knüpfen und Leute kennenzulernen. Wenn du etwas Größeres als z.B. nur deinen Laptop und Arduino (etc.) mitbringen möchtest, schreibe uns bitte vorher eine kurze E-Mail: [hotb@chaostreff-flensburg.de](mailto:hotb@chaostreff-flensburg.de).
 
 ### Was kostet ein Ticket?
 Die Tickets sind kostenlos, aber du kannst einen freiwilligen Betrag zu dem Event beitragen. Das Geld wird vom Chaos Computer Club Flensburg e.V. (gemeinnützig) verwaltet.
@@ -126,7 +126,7 @@ Die Busverbindungen in Flensburg findest Du im DB-Navigator oder unter [nah.sh](
 FlixBus fährt die meisten größeren Städte in Deutschland (Kiel, Hamburg, Bremen, Hannover, Berlin,...) und Dänemark (Aarhus, Kopenhagen, Kolding,...) an. Alle Verbindungen enden am Bahnhof in Flensburg. Mit Sydtrafik gibt es aber auch einen dänischen Anbieter, der am ZOB hält. Vom Bahnhof zum Hacks on the Beach sind es ca. 30 Minuten mit dem Fahrrad. Mit dem Bus sind es ca. 5 Minuten vom ZOB zum Bahnhof.
 
 #### Zug
-Es gibt diverse Zugverbindungen ~~von Kiel (ca. 1 Stunde) und~~ von Hamburg (ca. 2 Stunden) mit der Regionalbahn. In den Zügen gibt es oft sogar mobiles Internet und Steckdosen. Gerade auf das mobile Internet sollte man sich nicht verlassen und den Digital Detox genießen. Vereinzelt fahren auch dänische ICs von Hamburg nach Flensburg. Es gibt eine tägliche EC-Verbindung von Prag nach Flensburg. Für Gruppen ohne 49€-Ticket lohnt sich ab Hamburg das Schleswig-Holstein-Ticket. Über Umwege kann man Sparpreis-Tickets kaufen, die sich wegen der hohen Regionalbahnpreise auch lohnen. Aus Dänemark könnt ihr mit der Dänischen Staatsbahn anreisen.
+Es gibt diverse Zugverbindungen von Kiel (RE72 + RB73 | ca. 2 Stunden) und von Hamburg (RE7 | ca. 2 Stunden) mit der Regionalbahn. In den Zügen gibt es oft sogar mobiles Internet und Steckdosen. Gerade auf das mobile Internet sollte man sich nicht verlassen und den Digital Detox genießen. Vereinzelt fahren auch dänische ICs von Hamburg nach Flensburg. Es gibt eine tägliche EC-Verbindung von Prag nach Flensburg. Für Gruppen ohne "Deutschland-Ticket" lohnt sich ab Hamburg das Schleswig-Holstein-Ticket. Über Umwege kann man Sparpreis-Tickets kaufen, die sich wegen der hohen Regionalbahnpreise auch lohnen. Aus Dänemark könnt ihr mit der Dänischen Staatsbahn anreisen.
 
 #### Auto
 Das Hacks on the Beach ist leicht über die A7 und dann über die B200 zu erreichen. Aus Hamburg braucht ihr ca. 1 Stunde und 55 Minuten. Von Sonderburg sind es ca. 40 Minuten und von Kiel ca. 1 Stunde.
@@ -159,8 +159,9 @@ Es gibt einen Zeltplatz in [Jarplund](http://www.campingplatz-jarplund.de/), die
 Es besteht die Möglichkeit, kostenlos in einer "Turnhalle" zu übernachten. Dieser Raum hat aber nur Toiletten und **keine** Dusche. Wenn du dich dafür interessierst, schreibe uns eine [E-Mail](hotb@chaostreff-flensburg.de).
 
 ### Getränke
-Wir werden Mate, Fritz-Kola und einige Fritz Limonaden mitbringen und gegen Spende zur Verfügung stellen. Es gibt Leitungswasser und wir werden auch einen Wasserkocher mitbringen, aber es ist besser, wenn du deinen eigenen Tee mitbringst.
-Du kannst auch deine eigenen Getränke mitbringen.
+Wir werden Mate, Cola und einige andere Limonaden gegen eine Spende zur Verfügung stellen. Es gibt Leitungswasser und wir werden auch einen Wasserkocher bereitstellen – es ist aber besser, wenn du deinen eigenen Tee mitbringst.
+Eine (teils selbstorganisierte) "Tschunk"-Bar wird es ebenso geben.
+Du kannst generell natürlich auch deine eigenen Getränke mitbringen.
 
 ### Mitbringen
 Du kannst gerne deine eigenen Projekte mitbringen. Da wir nur begrenzt Platz haben, bitten wir dich keine Plätze zu belegen wenn du nicht da bist und wenn möglich alles in die Regale vor Ort zu verstauen. Wenn du etwas größeres als ein 3D-Drucker mitbringen möchtest, schreib uns bitte vorher eine [E-Mail](mailto:hotb@chaostreff-flensburg.de). Alles was sehr laut oder staubig ist, können wir nicht unterbringen.
@@ -175,7 +176,7 @@ Du hast Feedback? Wir haben ein [Pad](https://md.c3fl.de/hotb26_feedback)
 
 ## Kontakt
 
-* E-Mail: hotb@chaostreff-flensburg.de
+* E-Mail: [hotb@chaostreff-flensburg.de](mailto:hotb@chaostreff-flensburg.de)
 * Öffentlich Matrix Raum: [#hoth-public:chaos.jetzt](https://matrix.to/#/#hoth-public:chaos.jetzt)
 * Mastodon: [@chaos_fl@chaos.social](https://chaos.social/@chaos_fl)
 * Instagram: [chaos_fl](https://www.instagram.com/chaos_fl/)

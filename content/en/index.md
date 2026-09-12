@@ -13,7 +13,7 @@ Hacks on the Beach is a small hack & frickel festival right on the Flensburg Fjo
 
 <p>WHERE:<br>Strandpavillon Solitüde<br>54°49’20.8″N 9°29’22.1″E<br>Flensburg, Germany</p>
 
-[Open Streep Map](https://www.openstreetmap.org/search?query=54.82238%2C9.48952#map=19/54.82238/9.48952) | [Google Maps](https://www.google.com/maps/place/Solitude+Restaurant/@54.8213002,9.4866206,17z/data=!4m5!3m4!1s0x47b343af6afc09e5:0x8d4742d2e8b0b4af!8m2!3d54.8207686!4d9.4882353)
+[Open Streep Map](https://www.openstreetmap.org/search?query=54.82238%2C9.48952#map=19/54.82238/9.48952) | [Google Maps](https://www.google.com/maps/place/Solitude+Restaurant/@54.8213002,9.4866206,17z/data=!4m5!3m4!1s0x47b343af6afc09e5:0x8d4742d2e8b0b4af!8m2!3d54.8207686!4d9.4882353) | [Apple Maps](https://maps.apple.com/place?address=Solit%C3%BCde%2017,%2024944%20Flensburg,%20Germany&coordinate=54.822432,9.489470&name=Solit%C3%BCde%2017&map=explore)
 
 <p>WHEN:<br>11 - 13 September 2026, from Friday to Sunday</p>
     
@@ -35,7 +35,7 @@ Your browser does not support the video tag.
 
 There is a lot of room in the time table for workshops, talks and other cool things!
 
-So feel free to contribute (just send us an e-mail to hotb@chaostreff-flensburg.de and we add it to our time table below)!
+So feel free to contribute (just send us an e-mail to [hotb@chaostreff-flensburg.de](mailto:hotb@chaostreff-flensburg.de) and we add it to our time table below)!
 
 ### Friday - Day 1 - 11.09.2026
 
@@ -98,11 +98,11 @@ You can find more information about Matrix on the [Element Website](https://elem
 Strandpavillon Solitüde, Flensburg, Germany
 54°49’20.8″N 9°29’22.1″E
 
-[Open Streep Map](https://www.openstreetmap.org/search?query=54.82238%2C9.48952#map=19/54.82238/9.48952) | [Google Maps](https://www.google.com/maps/place/Solitude+Restaurant/@54.8213002,9.4866206,17z/data=!4m5!3m4!1s0x47b343af6afc09e5:0x8d4742d2e8b0b4af!8m2!3d54.8207686!4d9.4882353)
+[Open Streep Map](https://www.openstreetmap.org/search?query=54.82238%2C9.48952#map=19/54.82238/9.48952) | [Google Maps](https://www.google.com/maps/place/Solitude+Restaurant/@54.8213002,9.4866206,17z/data=!4m5!3m4!1s0x47b343af6afc09e5:0x8d4742d2e8b0b4af!8m2!3d54.8207686!4d9.4882353) | [Apple Maps](https://maps.apple.com/place?address=Solit%C3%BCde%2017,%2024944%20Flensburg,%20Germany&coordinate=54.822432,9.489470&name=Solit%C3%BCde%2017&map=explore)
 
 ### Food
 
-Dinner will be provided on Friday and Saturday. The food will be vegetarian and vegan. There will also be gluten-free food. What exactly will be available and when is still being planned.
+Breakfast will be provided on Friday, Saturday and Sunday and Dinner on Friday and Saturday. The food will be vegetarian and vegan. There will also be gluten-free food. What exactly will be available and when is still being planned.
 
 During the event there will also be a station where you can make your own sandwich toast.
 
@@ -110,11 +110,11 @@ If you want to eat at other times, you will have to cater for yourself.
 
 ### Do you need more volunteers?
 
-If you would like to help us with the workshops or with the set-up/organisation, simply send us an email to hotb@chaostreff-flensburg.de. The event depends on the support of volunteers.
+If you would like to help us with the workshops or with the set-up/organisation, simply send us an email to [hotb@chaostreff-flensburg.de](mailto:hotb@chaostreff-flensburg.de). The event depends on the support of volunteers.
 
 ### Can I come along to simply meet new people or work on my own project?
 
-By all means! That's exactly what our events are all about: tinkering, crafting, working on your own projects that you don't have time for at home and gathering new inspiration in the process. Another point is to make new contacts and get to know people. If you would like to bring something bigger than just your laptop and Arduino (etc.), please send us a short email in advance: hotb@chaostreff-flensburg.de.
+By all means! That's exactly what our events are all about: tinkering, crafting, working on your own projects that you don't have time for at home and gathering new inspiration in the process. Another point is to make new contacts and get to know people. If you would like to bring something bigger than just your laptop and Arduino (etc.), please send us a short email in advance: [hotb@chaostreff-flensburg.de](mailto:hotb@chaostreff-flensburg.de).
 
 ### How much does a ticket cost?
 
@@ -128,7 +128,7 @@ You can find the bus connections in Flensburg in the DB-Navigator or at [nah.sh]
 FlixBus travels from most major cities in Germany (Kiel, Hamburg, Bremen, Hanover, Berlin,...) and Denmark (Aarhus, Copenhagen, Kolding,...). All connections end at the railway station in Flensburg. With Sydtrafik there is also a Danish provider that stops at the ZOB. It is about 30 minutes by bike from the railway station to Hacks on the Beach. By bus, it is approx. 5 minutes from the ZOB to the railway station.
 
 #### Train
-There are various train connections ~~ from Kiel (approx. 1 hour) and ~~ from Hamburg (approx. 2 hours) by regional train. There is often even mobile internet and power sockets on the trains. You should not rely on mobile internet and enjoy the digital detox. Occasionally, Danish ICs also run from Hamburg to Flensburg. There is a daily EC connection from Prague to Flensburg. For groups without a €49 ticket, the Schleswig-Holstein ticket from Hamburg is worthwhile. You can buy Sparpreis tickets via detours, which are also worthwhile due to the high regional train prices. You can travel from Denmark with the Danish State Railway.
+There are various train connections from Kiel (RE72 & RB83 | approx. 2 hours) and from Hamburg (RE7 | approx. 2 hours) by regional train. There is often even mobile internet and power sockets on the trains. You should not rely on mobile internet and enjoy the digital detox. Occasionally, Danish ICs also run from Hamburg to Flensburg. There is a daily EC connection from Prague to Flensburg. For groups without a "Deutschland-Ticket", the Schleswig-Holstein ticket from Hamburg is worthwhile. You can buy Sparpreis tickets via detours, which are also worthwhile due to the high regional train prices. You can travel from Denmark with the Danish State Railway.
 
 #### Car
 
@@ -164,8 +164,9 @@ There is a campsite in [Jarplund](http://www.campingplatz-jarplund.de/), but unf
 It is possible to spend the night in a "gym" free of charge. However, this room only has toilets and **no** shower. If you are interested, please send us an [e-mail](mailto:hotb@chaostreff-flensburg.de).
 
 ### Beverages
-We will bring mate, Fritz-Kola and some Fritz lemonades and make them available for a donation. There will be tap water and we will also bring a kettle, but it is better if you bring your own tea.
-You can also bring your own drinks.
+We will provide mate, cola and some other lemonades available for a small donation. There will be tap water and we will also bring a kettle – but it is recommended that you bring your own tea.
+There will also be a (partly self-organized) "Tschunk"-bar.
+You can also bring your own drinks, of course.
 
 ### Bring with you
 You are welcome to bring your own projects. Since we only have limited space, we ask you not to occupy any seats if you are not there and, if possible, to stow everything on the shelves on site. If you want to bring something bigger than a 3D printer, please send us an [email](mailto:hotb@chaostreff-flensburg.de) beforehand. We cannot accommodate anything that is very loud or dusty.
@@ -186,7 +187,7 @@ Do you have feedback? We have a [Pad](https://md.c3fl.de/hotb26_feedback)
 
 ## Contact
 
-* E-mail: hotb@chaostreff-flensburg.de
+* E-mail: [hotb@chaostreff-flensburg.de](mailto:hotb@chaostreff-flensburg.de)
 * Public matrix space: [#hoth-public:chaos.now](https://matrix.to/#/#hoth-public:chaos.jetzt)
 * Mastodon: [@chaos_fl@chaos.social](https://chaos.social/@chaos_fl)
 * Instagram: [chaos_fl](https://www.instagram.com/chaos_fl/)
