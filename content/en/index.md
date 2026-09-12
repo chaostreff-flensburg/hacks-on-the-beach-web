@@ -164,8 +164,9 @@ There is a campsite in [Jarplund](http://www.campingplatz-jarplund.de/), but unf
 It is possible to spend the night in a "gym" free of charge. However, this room only has toilets and **no** shower. If you are interested, please send us an [e-mail](mailto:hotb@chaostreff-flensburg.de).
 
 ### Beverages
-We will bring mate, Fritz-Kola and some Fritz lemonades and make them available for a donation. There will be tap water and we will also bring a kettle, but it is better if you bring your own tea.
-You can also bring your own drinks.
+We will provide mate, cola and some other lemonades available for a small donation. There will be tap water and we will also bring a kettle – but it is recommended that you bring your own tea.
+There will also be a (partly self-organized) "Tschunk"-bar.
+You can also bring your own drinks, of course.
 
 ### Bring with you
 You are welcome to bring your own projects. Since we only have limited space, we ask you not to occupy any seats if you are not there and, if possible, to stow everything on the shelves on site. If you want to bring something bigger than a 3D printer, please send us an [email](mailto:hotb@chaostreff-flensburg.de) beforehand. We cannot accommodate anything that is very loud or dusty.

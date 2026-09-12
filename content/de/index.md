@@ -159,8 +159,9 @@ Es gibt einen Zeltplatz in [Jarplund](http://www.campingplatz-jarplund.de/), die
 Es besteht die Möglichkeit, kostenlos in einer "Turnhalle" zu übernachten. Dieser Raum hat aber nur Toiletten und **keine** Dusche. Wenn du dich dafür interessierst, schreibe uns eine [E-Mail](hotb@chaostreff-flensburg.de).
 
 ### Getränke
-Wir werden Mate, Fritz-Kola und einige Fritz Limonaden mitbringen und gegen Spende zur Verfügung stellen. Es gibt Leitungswasser und wir werden auch einen Wasserkocher mitbringen, aber es ist besser, wenn du deinen eigenen Tee mitbringst.
-Du kannst auch deine eigenen Getränke mitbringen.
+Wir werden Mate, Cola und einige andere Limonaden gegen eine Spende zur Verfügung stellen. Es gibt Leitungswasser und wir werden auch einen Wasserkocher bereitstellen – es ist aber besser, wenn du deinen eigenen Tee mitbringst.
+Eine (teils selbstorganisierte) "Tschunk"-Bar wird es ebenso geben.
+Du kannst generell natürlich auch deine eigenen Getränke mitbringen.
 
 ### Mitbringen
 Du kannst gerne deine eigenen Projekte mitbringen. Da wir nur begrenzt Platz haben, bitten wir dich keine Plätze zu belegen wenn du nicht da bist und wenn möglich alles in die Regale vor Ort zu verstauen. Wenn du etwas größeres als ein 3D-Drucker mitbringen möchtest, schreib uns bitte vorher eine [E-Mail](mailto:hotb@chaostreff-flensburg.de). Alles was sehr laut oder staubig ist, können wir nicht unterbringen.
