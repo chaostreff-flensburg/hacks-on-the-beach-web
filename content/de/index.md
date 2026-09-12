@@ -78,7 +78,7 @@ Während der gesamten Veranstaltung stehen eine 3D-Druckstation und eine Lötsta
 
 ## FAQ
 
-Du hast noch mehr Fragen? Schreibe uns gerne eine E-Mail an hotb@chaostreff-flensburg.de
+Du hast noch mehr Fragen? Schreibe uns gerne eine E-Mail an [hotb@chaostreff-flensburg.de](mailto:hotb@chaostreff-flensburg.de)
 
 ### An wen richtet sich die Veranstaltung?
 Die Veranstaltung richtet sich an alle, die sich für Basteln, Programmieren, Hacken, Tüfteln, Löten, 3D-Drucken, Chaos und Netzpolitik interessieren oder begeistern können. Du musst kein Experte\*in sein oder Vorkenntnisse haben, um an dieser Veranstaltung teilzunehmen.
@@ -175,7 +175,7 @@ Du hast Feedback? Wir haben ein [Pad](https://md.c3fl.de/hotb26_feedback)
 
 ## Kontakt
 
-* E-Mail: hotb@chaostreff-flensburg.de
+* E-Mail: [hotb@chaostreff-flensburg.de](mailto:hotb@chaostreff-flensburg.de)
 * Öffentlich Matrix Raum: [#hoth-public:chaos.jetzt](https://matrix.to/#/#hoth-public:chaos.jetzt)
 * Mastodon: [@chaos_fl@chaos.social](https://chaos.social/@chaos_fl)
 * Instagram: [chaos_fl](https://www.instagram.com/chaos_fl/)

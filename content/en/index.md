@@ -35,7 +35,7 @@ Your browser does not support the video tag.
 
 There is a lot of room in the time table for workshops, talks and other cool things!
 
-So feel free to contribute (just send us an e-mail to hotb@chaostreff-flensburg.de and we add it to our time table below)!
+So feel free to contribute (just send us an e-mail to [hotb@chaostreff-flensburg.de](mailto:hotb@chaostreff-flensburg.de) and we add it to our time table below)!
 
 ### Friday - Day 1 - 11.09.2026
 
@@ -186,7 +186,7 @@ Do you have feedback? We have a [Pad](https://md.c3fl.de/hotb26_feedback)
 
 ## Contact
 
-* E-mail: hotb@chaostreff-flensburg.de
+* E-mail: [hotb@chaostreff-flensburg.de](mailto:hotb@chaostreff-flensburg.de)
 * Public matrix space: [#hoth-public:chaos.now](https://matrix.to/#/#hoth-public:chaos.jetzt)
 * Mastodon: [@chaos_fl@chaos.social](https://chaos.social/@chaos_fl)
 * Instagram: [chaos_fl](https://www.instagram.com/chaos_fl/)
